@@ -1,0 +1,5 @@
+lang: es
+direction: ltr
+right-to-left: false
+mainfont: "Times New Roman"
+hebrew-font: "Taamey Frank CLM"  # Fuente para texto hebreo

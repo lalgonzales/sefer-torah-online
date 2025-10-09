@@ -1,0 +1,17 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "Sefer Torah Online"
+  author: "Luis Alfredo López Gonzales"
+  chapters:
+    - index.qmd
+    - part: Parashot
+      chapters:
+        - content/parashot/bereshit.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles/custom.scss

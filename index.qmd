@@ -1,0 +1,19 @@
+---
+title: "Sefer Torah Online"
+---
+
+# Sefer Torah Online
+
+Bienvenido al proyecto de Torá digital bilingüe.
+
+## Parashot Disponibles
+
+- [Bereshit](/content/parashot/bereshit.html)
+
+## Formatos Disponibles
+
+- 📖 **Web** (HTML)
+- 📄 **PDF**
+- 📱 **EPUB**
+
+*Proyecto en desarrollo - nuevas parashot agregadas semanalmente*

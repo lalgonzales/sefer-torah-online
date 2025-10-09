@@ -1,0 +1,14 @@
+# Bereshit - בראשית
+
+## Información General
+- **Semana:** 1
+- **Porción:** Génesis 1:1-6:8
+- **Haftará:** Isaías 42:5-43:10
+- **Fecha aproximada:** Octubre
+
+## Texto en Hebreo
+```{=html}
+<div dir="rtl" lang="he">
+  <h3>פרשת בראשית</h3>
+  <p>בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ...</p>
+</div>
