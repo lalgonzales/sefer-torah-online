@@ -1,0 +1,66 @@
+# Shakharit - Servicio Matutino
+
+## Introducción
+
+Shakharit es el servicio de oración matutino en el judaísmo, recitado al amanecer. Incluye bendiciones, lecturas de la Torá y oraciones centrales como el Shema y la Amidá.
+
+## Orden del Servicio
+
+1. **Birkat HaShakhar** - Bendiciones matutinas.
+
+## Birkat HaShakhar
+
+Las bendiciones matutinas agradecen por el despertar y el cuerpo. Incluyen lavado de manos y bendiciones corporales.
+
+### Modé Ani (Opcional)
+
+::: {.triple-view}
+
+::: {.translation}
+Estoy agradecido ante Ti, Rey vivo y eterno, que en Tu misericordia me has devuelto mi alma. Grande es Tu fidelidad.
+:::
+
+::: {.transliteration}
+Modé ani l'fanekha Melekh khai v'kayam, shehekhezarta bi nishmati b'khemla. Rabba emunatekha.
+:::
+
+::: {.hebrew}
+מוֹדֶה אֲנִי לְפָנֶיךָ מֶלֶךְ חַי וְקַיָּם שֶׁהֶחֱזַרְתָּ בִּי נִשְׁמָתִי בְּחֶמְלָה׃ רַבָּה אֱמוּנָתֶךָ׃
+:::
+
+:::
+
+### Netilat Yadayim (Obligatorio)
+
+::: {.triple-view}
+
+::: {.translation}
+Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que nos has santificado con Tus mandamientos y nos has ordenado sobre el lavado de manos.
+:::
+
+::: {.transliteration}
+Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivanu al netilat yadayim.
+:::
+
+::: {.hebrew}
+בָּרוּךְ אַתָּה יְהוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת יָדַיִם׃
+:::
+
+:::
+
+### Asher Yatzar (Obligatorio)
+{{< include berajot/asher-yatzar.qmd >}}
+
+### Otras Bendiciones (Opcional)
+
+#### Bendición por los Ojos
+{{< include berajot/pokeakh-ivrim.qmd >}}
+
+#### Bendición por la Boca
+{{< include berajot/matir-asurim.qmd >}}
+
+#### Bendición por la Ropa
+{{< include berajot/malbish-arumim.qmd >}}
+
+#### Bendición por Enderezar el Cuerpo
+{{< include berajot/zokef-kefufim.qmd >}}
