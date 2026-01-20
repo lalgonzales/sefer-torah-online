@@ -1,2 +1,14 @@
 /.quarto/
 _site/
+
+**/*.quarto_ipynb
+
+.ai-instructions.md
+
+**/*_files/
+
+content/**/*.html
+
+**/*.aux
+**/*.log
+**/*.tex
