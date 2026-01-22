@@ -18,6 +18,7 @@ Shakharit se recita al amanecer y dura ~30-60 minutos. Incluye elementos fijos y
   - Modé ani (bendición al despertar) - Opcional.
   - Netilat yadayim (lavado de manos) - Obligatorio.
   - Asher yatzar (bendición para el baño) - Obligatorio.
+  - Elohai neshama (bendición por el alma) - Opcional.
   - Otras bendiciones: ojos, boca, ropa, etc. - Opcional.
 - **Duración**: ~5-10 minutos.
 - **Implementación**: Sección introductoria con layout triple para bendiciones clave.

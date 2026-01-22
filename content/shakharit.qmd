@@ -12,7 +12,7 @@ Shakharit es el servicio de oración matutino en el judaísmo, recitado al amane
 
 Las bendiciones matutinas agradecen por el despertar y el cuerpo. Incluyen lavado de manos y bendiciones corporales.
 
-### Modé Ani (Opcional)
+### Modé Ani
 
 ::: {.triple-view}
 
@@ -21,7 +21,7 @@ Estoy agradecido ante Ti, Rey vivo y eterno, que en Tu misericordia me has devue
 :::
 
 ::: {.transliteration}
-Modé ani l'fanekha Melekh khai v'kayam, shehekhezarta bi nishmati b'khemla. Rabba emunatekha.
+modeh ani l'fanekha Melekh khai v'kayam, shehekhezarta bi nishmati b'khemla. Rabba emunatekha.
 :::
 
 ::: {.hebrew}
@@ -30,7 +30,9 @@ Modé ani l'fanekha Melekh khai v'kayam, shehekhezarta bi nishmati b'khemla. Rab
 
 :::
 
-### Netilat Yadayim (Obligatorio)
+*Nota: Las mujeres dicen "Moda ani" en lugar de "Modé ani".*
+
+### Netilat Yadayim
 
 ::: {.triple-view}
 
@@ -48,8 +50,11 @@ Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivan
 
 :::
 
-### Asher Yatzar (Obligatorio)
+### Asher Yatzar
 {{< include berajot/asher-yatzar.qmd >}}
+
+### Elohai Neshama Shenatata Bi
+{{< include berajot/elohai-neshama.qmd >}}
 
 ### Otras Bendiciones (Opcional)
 
