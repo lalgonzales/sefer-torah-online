@@ -1,5 +1,3 @@
-# Bendición Asher Yatzar
-
 Esta bendición se recita después de usar el baño, agradeciendo por el funcionamiento del cuerpo.
 
 ::: {.triple-view}
@@ -9,11 +7,11 @@ Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que formaste al hombr
 :::
 
 ::: {.transliteration}
-Barukh atah HaShem Eloheinu Melekh ha'olam, asher yatzar et ha'adam b'khochmah, u'vara vo n'kavim n'kavim, khalulim khalulim. Galui v'yadua lifnei khisei khvodecha she'im yipate'ach ekhad mehem, o yisatem ekhad mehem, ee efshar l'hitkayem v'la'amod lifanecha. Barukh atah HaShem, rofeh khol basar u'mafli la'asot.
+Barukh atah HaShem Eloheinu Melekh ha'olam, asher yatzar et ha'adam b'khokhmah, v'arah vo n'kavim n'kavim, khalulim khalulim. Galui v'yadua lifnei kisei khvodecha she'im yipate'akh ekhad mehem, o yisatem ekhad mehem, ee efshar l'hitkayem v'la'amod l'fanekha. Barukh atah HaShem, rofeh khol basar u'mafli la'asot.
 :::
 
 ::: {.hebrew}
-בָּרוּךְ אַתָּה יְהוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם אֲשֶׁר יָצַר אֶת הָאָדָם בְּחָכְמָה וּבָרָא בוֹ נְקָבִים נְקָבִים חֲלֻלִים חֲלֻלִים׃ גָּלוּי וְיָדוּעַ לִפְנֵי כִסֵּא כְבוֹדֶךָ שֶׁאִם יִפָּתֵחַ אֶחָד מֵהֶם אוֹ יִסָּתֵם אֶחָד מֵהֶם אִי אֶפְשַׁר לְהִתְקַיֵּם וְלַעֲמֹד לְפָנֶיךָ׃ בָּרוּךְ אַתָּה יְהוָה רוֹפֵא כָל בָּשָׂר וּמַפְלִיא לַעֲשׂוֹת׃
+בָּרוּךְ אַתָּה יְהוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם אֲשֶׁר יָצַר אֶת הָאָדָם בְּחָכְמָה וּבָרָא בוֹ נְקָבִים נְקָבִים חֲלוּלִים חֲלוּלִים׃ גָּלוּי וְיָדוּעַ לִפְנֵי כִסֵּא כְבוֹדֶךָ שֶׁאִם יִפָּתֵחַ אֶחָד מֵהֶם אוֹ יִסָּתֵם אֶחָד מֵהֶם אִי אֶפְשַׁר לְהִתְקַיֵּם וְלַעֲמֹד לְפָנֶיךָ׃ בָּרוּךְ אַתָּה יְהוָה רוֹפֵא כָל בָּשָׂר וּמַפְלִיא לַעֲשׂוֹת׃
 :::
 
 :::
