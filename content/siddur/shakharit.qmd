@@ -4,6 +4,8 @@
 
 Shakharit es el servicio de oración matutino en el judaísmo, recitado al amanecer. Incluye bendiciones, lecturas de la Torá y oraciones centrales como el Shema y la Amidá.
 
+*Trabajo en progreso: Esta sección se está expandiendo con más elementos del servicio, como P'sukei D'Zimra, Shema y Amidá.*
+
 ## Orden del Servicio
 
 1. **Birkat HaShakhar** - Bendiciones matutinas.
@@ -14,7 +16,7 @@ Las bendiciones matutinas agradecen por el despertar y el cuerpo. Incluyen lavad
 
 ### Modé Ani
 
-{{< include berakhot/mode-ani.qmd >}}
+{{< include ../berakhot/mode-ani.qmd >}}
 
 ### Netilat Yadayim
 
@@ -35,48 +37,48 @@ Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivan
 :::
 
 ### Asher Yatzar
-{{< include berakhot/asher-yatzar.qmd >}}
+{{< include ../berakhot/asher-yatzar.qmd >}}
 
 ### Elohai Neshama Shenatata Bi
-{{< include berakhot/elohai-neshama.qmd >}}
+{{< include ../berakhot/elohai-neshama.qmd >}}
 
 ### Otras Bendiciones (Opcional)
 
 #### Bendición por la Inteligencia
-{{< include berakhot/atah-khonantanu.qmd >}}
+{{< include ../berakhot/atah-khonantanu.qmd >}}
 
 #### Bendición por los Ojos
-{{< include berakhot/pokeakh-ivrim.qmd >}}
+{{< include ../berakhot/pokeakh-ivrim.qmd >}}
 
 #### Bendición por la Boca
-{{< include berakhot/matir-asurim.qmd >}}
+{{< include ../berakhot/matir-asurim.qmd >}}
 
 #### Capacidad de movimiento
-{{< include berakhot/she-asah-li-kol-tzorki.qmd >}}
+{{< include ../berakhot/she-asah-li-kol-tzorki.qmd >}}
 
 #### Postura erecta
-{{< include berakhot/zokef-kefufim.qmd >}}
+{{< include ../berakhot/zokef-kefufim.qmd >}}
 
 #### Vestimenta
-{{< include berakhot/malbish-arumim.qmd >}}
+{{< include ../berakhot/malbish-arumim.qmd >}}
 
 #### Energía
-{{< include berakhot/la-yaf-koakh.qmd >}}
+{{< include ../berakhot/la-yaf-koakh.qmd >}}
 
 #### Firmeza de la tierra
-{{< include berakhot/roka-haaretz-al-hamayim.qmd >}}
+{{< include ../berakhot/roka-haaretz-al-hamayim.qmd >}}
 
 #### Capacidad de caminar
-{{< include berakhot/hamekhair-mitzadei-gever.qmd >}}
+{{< include ../berakhot/hamekhair-mitzadei-gever.qmd >}}
 
 #### Fuerza
-{{< include berakhot/ozer-yisrael-bigvura.qmd >}}
+{{< include ../berakhot/ozer-yisrael-bigvura.qmd >}}
 
 #### Libertad
-{{< include berakhot/shelo-asani-eved.qmd >}}
+{{< include ../berakhot/shelo-asani-eved.qmd >}}
 
 #### Identidad
-{{< include berakhot/shelo-asani-isha.qmd >}}
+{{< include ../berakhot/shelo-asani-isha.qmd >}}
 
 #### Liberación del sueño
-{{< include berakhot/liberacion-del-sueno.qmd >}}
+{{< include ../berakhot/liberacion-del-sueno.qmd >}}
