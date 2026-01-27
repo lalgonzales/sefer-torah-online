@@ -19,3 +19,4 @@ format:
     theme: cosmo
     css: styles/custom.css
     toc-depth: 5
+    base-url: /sefer-torah-online/
