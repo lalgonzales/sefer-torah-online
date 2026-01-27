@@ -7,10 +7,8 @@ book:
   author: "Luis Alfredo López Gonzales"
   chapters:
     - index.qmd
-    - content/shakharit.qmd
-    - part: Parashot
-      chapters:
-        - content/parashot/bereshit.qmd
+    - content/siddur/shakharit.qmd
+    - content/parashot/bereshit.qmd
   navbar:
     right:
       - icon: github
