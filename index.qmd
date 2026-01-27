@@ -6,13 +6,7 @@ title: "Sefer Torah Online"
 
 Bienvenido al proyecto de Torá digital bilingüe.
 
-## Servicios de Oración Disponibles
-
-- [Shakharit - Servicio Matutino](/content/shakharit.html)
-
-## Parashot Disponibles
-
-- [Bereshit](/content/parashot/bereshit.html)
+*Trabajo en progreso: Se continúa desarrollando la sección de Shakharit con más bendiciones y mejoras.*
 
 ## Formatos Disponibles
 
