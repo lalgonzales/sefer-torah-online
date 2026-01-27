@@ -14,23 +14,7 @@ Las bendiciones matutinas agradecen por el despertar y el cuerpo. Incluyen lavad
 
 ### Modé Ani
 
-::: {.triple-view}
-
-::: {.translation}
-Estoy agradecido ante Ti, Rey vivo y eterno, que en Tu misericordia me has devuelto mi alma. Grande es Tu fidelidad.
-:::
-
-::: {.transliteration}
-modeh ani l'fanekha Melekh khai v'kayam, shehekhezarta bi nishmati b'khemla. Rabba emunatekha.
-:::
-
-::: {.hebrew}
-מוֹדֶה אֲנִי לְפָנֶיךָ מֶלֶךְ חַי וְקַיָּם שֶׁהֶחֱזַרְתָּ בִּי נִשְׁמָתִי בְּחֶמְלָה׃ רַבָּה אֱמוּנָתֶךָ׃
-:::
-
-:::
-
-*Nota: Las mujeres dicen "Moda ani" en lugar de "Modé ani".*
+{{< include berakhot/mode-ani.qmd >}}
 
 ### Netilat Yadayim
 
@@ -51,21 +35,48 @@ Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivan
 :::
 
 ### Asher Yatzar
-{{< include berajot/asher-yatzar.qmd >}}
+{{< include berakhot/asher-yatzar.qmd >}}
 
 ### Elohai Neshama Shenatata Bi
-{{< include berajot/elohai-neshama.qmd >}}
+{{< include berakhot/elohai-neshama.qmd >}}
 
 ### Otras Bendiciones (Opcional)
 
+#### Bendición por la Inteligencia
+{{< include berakhot/atah-khonantanu.qmd >}}
+
 #### Bendición por los Ojos
-{{< include berajot/pokeakh-ivrim.qmd >}}
+{{< include berakhot/pokeakh-ivrim.qmd >}}
 
 #### Bendición por la Boca
-{{< include berajot/matir-asurim.qmd >}}
+{{< include berakhot/matir-asurim.qmd >}}
 
-#### Bendición por la Ropa
-{{< include berajot/malbish-arumim.qmd >}}
+#### Capacidad de movimiento
+{{< include berakhot/she-asah-li-kol-tzorki.qmd >}}
 
-#### Bendición por Enderezar el Cuerpo
-{{< include berajot/zokef-kefufim.qmd >}}
+#### Postura erecta
+{{< include berakhot/zokef-kefufim.qmd >}}
+
+#### Vestimenta
+{{< include berakhot/malbish-arumim.qmd >}}
+
+#### Energía
+{{< include berakhot/la-yaf-koakh.qmd >}}
+
+#### Firmeza de la tierra
+{{< include berakhot/roka-haaretz-al-hamayim.qmd >}}
+
+#### Capacidad de caminar
+{{< include berakhot/hamekhair-mitzadei-gever.qmd >}}
+
+#### Fuerza
+{{< include berakhot/ozer-yisrael-bigvura.qmd >}}
+
+#### Libertad
+{{< include berakhot/shelo-asani-eved.qmd >}}
+
+#### Identidad
+{{< include berakhot/shelo-asani-isha.qmd >}}
+
+#### Liberación del sueño
+{{< include berakhot/liberacion-del-sueno.qmd >}}
