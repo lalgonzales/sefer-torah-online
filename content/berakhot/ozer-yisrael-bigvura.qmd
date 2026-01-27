@@ -1,0 +1,17 @@
+Esta bendición se recita por la mañana, agradeciendo por la fuerza y ayuda divina.
+
+::: {.triple-view}
+
+::: {.translation}
+Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que ayuda a Yisrael con fuerza.
+:::
+
+::: {.transliteration}
+Barukh atah HaShem Eloheinu Melekh ha'olam, ozer Yisrael bigvura.
+:::
+
+::: {.hebrew}
+בָּרוּךְ אַתָּה יְהוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם עֹזֵר יִשְׂרָאֵל בִּגְבוּרָה׃
+:::
+
+:::
