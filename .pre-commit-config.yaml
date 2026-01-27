@@ -20,6 +20,7 @@ repos:
       rev: v2.4.1
       hooks:
           - id: codespell
+            exclude: content/
             args:
                 [
                     "--ignore-words-list=aci,acount,acounts,fallow,ges,hart,hist,nd,ned,ois,wqs,watermask,tre,mape,INE",
