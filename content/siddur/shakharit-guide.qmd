@@ -1,0 +1,85 @@
+# Guía Completa de Shakharit - Servicio Matutino
+
+Esta guía documenta la estructura completa del servicio matutino Shakharit en el judaísmo, basada en fuentes tradicionales (Sefaria, Chabad, Open Siddur). Sirve como referencia para implementar en el proyecto Sefer Torah Online. Incluye obligaciones, opcionales y variaciones.
+
+**Para principiantes**: Shakharit es la oración matutina diaria en el judaísmo, recitada al amanecer. Incluye alabanzas, declaraciones de fe y peticiones. Los elementos obligatorios son mínimos; el resto es para enriquecer la experiencia espiritual.
+
+## Estructura General
+Shakharit se recita al amanecer y dura ~30-60 minutos. Incluye elementos fijos y variables según el día.
+
+### Variaciones
+- **Shabbat**: Sin Tahanun, Amidá modificada (sin petición), P'sukei D'Zimra extendido.
+- **Festivales**: Amidá cambia (e.g., Ya'aleh V'Yavo en Rosh Hashaná), sin Tahanun.
+- **Días de semana**: Completo con Tahanun.
+
+### 1. Preparación y Bendiciones Matutinas (Birkat HaShakhar)
+- **Propósito**: Agradecimiento por el despertar y bendiciones corporales.
+- **Elementos**:
+  - Modé ani (bendición al despertar) - Opcional.
+  - Netilat yadayim (lavado de manos) - Obligatorio.
+  - Asher yatzar (bendición para el baño) - Obligatorio.
+  - Elohai neshama (bendición por el alma) - Opcional.
+  - Otras bendiciones: inteligencia, ojos, boca, capacidad de movimiento, postura erecta, vestimenta, energía, firmeza de la tierra, capacidad de caminar, fuerza, libertad, identidad, liberación del sueño, etc. - Opcional.
+- **Duración**: ~5-10 minutos.
+- **Implementación**: Sección introductoria con layout triple para bendiciones clave.
+
+### 2. Versos de Alabanza (P'sukei D'Zimra)
+- **Propósito**: Preparar el corazón mediante salmos (opcional, pero recomendado para profundizar la oración).
+- **Elementos** (orden aproximado; la sección completa es opcional, pero si se recita, completar):
+  - Salmos 145-150 (Ashrei, etc.) - Obligatorio (si se recita P'sukei D'Zimra).
+  - Nishmat (cántico de Shabbat, se agrega en Shabbat después de los salmos) - Solo Shabbat.
+  - Yishtabach (alabanza final) - Obligatorio (si se recita P'sukei D'Zimra).
+- **Duración**: ~10-15 minutos.
+- **Implementación**: Lista de salmos con texto hebreo, fonética, traducción. Layout triple.
+
+### 3. Bendición Antes del Shema
+- **Propósito**: Introducir el Shema.
+- **Elemento**: "Barukh atah HaShem... asher kid'shanu b'mitzvotav v'tzivanu al dvar Shema." - Obligatorio (común en todas las tradiciones judías).
+- **Duración**: Breve.
+- **Implementación**: Berajá compartida en `content/berajot/shema-blessing.qmd`.
+
+### 4. Shema con Bendiciones
+- **Propósito**: Declaración de fe.
+- **Elementos**:
+  - Shema (Deuteronomio 6:4-9) - Obligatorio.
+  - Vehaya im shamoa (bendición posterior) - Obligatorio.
+  - En Shabbat: Yismechu - Obligatorio en Shabbat.
+- **Duración**: ~5 minutos.
+- **Implementación**: Ya en prototipo; expandir con bendiciones completas.
+
+### 5. Tefilin y Talit
+- **Propósito**: Cumplir mitzvot de tefilin y tzitzit.
+- **Elementos**:
+  - Ponerse talit: Bendición "Barukh atah HaShem... tzivanu l'hit'atef ba-tzitzit" - Obligatorio para hombres.
+  - Ponerse tefilin: Bendiciones para cabeza y brazo - Obligatorio para hombres.
+- **Momento**: Antes de Amidá.
+- **Implementación**: Berajot compartidas en `content/berajot/`.
+
+### 6. Amidá (Shmoneh Esrei)
+- **Propósito**: Oración silenciosa.
+- **Elementos**:
+  - 19 bendiciones: Avot, Gevurot, Kedushat HaShem, etc. - Obligatorio.
+  - Modificada en Shabbat/festivales - Obligatorio según día.
+- **Duración**: ~5-10 minutos.
+- **Implementación**: Expandir prototipo con bendiciones individuales.
+
+### 7. Tahanun (Súplicas)
+- **Propósito**: Petición de misericordia.
+- **Elementos**: Vidui, salmos de súplica - Opcional (días de semana).
+- **Duración**: ~5 minutos.
+- **Omitido**: Shabbat, festivales.
+- **Implementación**: Sección opcional.
+
+### 8. Conclusión
+- **Elementos**:
+  - Kaddish - Obligatorio.
+  - Aleinu - Obligatorio.
+  - Salmo 27/91 - Opcional.
+- **Duración**: ~5 minutos.
+- **Implementación**: Cierre del servicio.
+
+## Consideraciones
+- **Tiempo**: Al amanecer hasta 3 horas después.
+- **Para el proyecto**: Usar includes para berajot compartidas. Layout triple en oraciones principales. Agregar explicaciones pedagógicas.
+
+Esta guía se actualizará conforme se implemente.

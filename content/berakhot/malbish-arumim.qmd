@@ -1,0 +1,15 @@
+::: {.triple-view}
+
+::: {.translation}
+Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que vistes a los desnudos.
+:::
+
+::: {.transliteration}
+Barukh atah HaShem Eloheinu Melekh ha'olam, malbish arumim.
+:::
+
+::: {.hebrew}
+בָּרוּךְ אַתָּה יְהוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם מַלְבִּישׁ עֲרוּמִּים׃
+:::
+
+:::

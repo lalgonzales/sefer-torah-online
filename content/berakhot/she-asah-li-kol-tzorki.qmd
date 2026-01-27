@@ -1,0 +1,17 @@
+Esta bendición se recita por la mañana, agradeciendo por todas las necesidades físicas y corporales provistas por HaShem.
+
+::: {.triple-view}
+
+::: {.translation}
+Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que me ha provisto de todas mis necesidades.
+:::
+
+::: {.transliteration}
+Barukh atah HaShem Eloheinu Melekh ha'olam, she'asah li kol tzorki.
+:::
+
+::: {.hebrew}
+בָּרוּךְ אַתָּה יְהוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם שֶׁעָשָׂה לִי כָל צָרְכִּי׃
+:::
+
+:::
