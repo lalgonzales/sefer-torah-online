@@ -1,17 +1,54 @@
 ---
 title: "Sefer Torah Online"
+author: "Luis Alfredo López Gonzales"
 ---
 
 # Sefer Torah Online
 
-Bienvenido al proyecto de Torá digital bilingüe.
+Bienvenido a **Sefer Torah Online**, un proyecto de estudio de la Torá digital bilingüe. Aquí encontrarás textos sagrados en hebreo, transliteración fonética y traducción al español, facilitando el aprendizaje y la recitación.
 
-*Trabajo en progreso: Se continúa desarrollando la sección de Shakharit con más bendiciones y mejoras.*
+*Trabajo en progreso: Se continúa desarrollando la sección de Siddur con más bendiciones y mejoras.*
+
+## Navegación Principal
+
+### 📿 Siddur - Oraciones Diarias
+
+- **[Shakharit - Servicio de la Mañana](content/siddur/shakharit.html)**
+  - Bendiciones matutinas (Birkat HaShakhar)
+  - P'sukei D'Zimra (Versos de Exaltación)
+  - Más secciones próximamente
+
+- **Berakhot - Bendiciones**
+  - Asher Yatzar, Elohai Neshama, Mode Ani, etc.
+
+### 📖 Parashot - Porciones Semanales de la Torá
+
+- **[Bereshit - Génesis](content/parashot/bereshit.html)**
+  - La creación del mundo
+  - La historia de Adán y Eva
+  - Más parashot próximamente
 
 ## Formatos Disponibles
 
-- 📖 **Web** (HTML)
-- 📄 **PDF**
-- 📱 **EPUB**
+- 📖 **Web** (HTML) - Optimizado para estudio interactivo
 
-*Proyecto en desarrollo - nuevas parashot agregadas semanalmente*
+## Acerca del Proyecto
+
+Este sitio está diseñado para facilitar el estudio de la Torá a personas de habla hispana, proporcionando:
+
+- Textos en hebreo con vocalización
+- Translitaración fonética para principiantes
+- Traducciones precisas al español
+- Formato triple-view para comparación simultánea
+
+### Nota sobre el Nombre Divino
+
+En este proyecto, utilizamos el término **HaShem** (que significa "El Nombre" en hebreo) como substituto respetuoso para referirnos al Nombre sagrado (el Tetragrámaton). Esta práctica se basa en la tradición judía de evitar pronunciar o escribir el Nombre sagrado en contextos no sagrados.
+
+Sin embargo, reconocemos que las costumbres varían entre diferentes comunidades judías. El lector es libre de pronunciar o referirse al Nombre sagrado según las tradiciones de su *kehila* (comunidad). El uso de "HaShem" aquí es meramente por respeto y para hacer el contenido accesible a la mayor cantidad de personas posible, sin intención de imponer una práctica específica ni entrar en transgresiones.
+
+*Proyecto en desarrollo - nuevas parashot y secciones agregadas semanalmente*
+
+---
+
+[Ver en GitHub](https://github.com/lalgonzales/sefer-torah-online) | [Reportar problemas](https://github.com/lalgonzales/sefer-torah-online/issues)
