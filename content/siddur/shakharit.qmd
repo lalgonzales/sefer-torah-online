@@ -1,22 +1,20 @@
 # Shakharit - Servicio Matutino
 
-## Introducción
-
-Shakharit es el servicio de oración matutino en el judaísmo, recitado al amanecer. Incluye bendiciones, lecturas de la Torá y oraciones centrales como el Shema y la Amidá.
-
-*Trabajo en progreso: Esta sección se está expandiendo con más elementos del servicio, como P'sukei D'Zimra, Shema y Amidá.*
-
 ## Orden del Servicio
 
 1. **Birkat HaShakhar** - Bendiciones matutinas.
+2. **Birkat HaTorah** - Bendiciones sobre el estudio de la Torá.
+3. **P'sukei D'Zimra** - Versos de alabanza.
 
 ## Birkat HaShakhar
-
-Las bendiciones matutinas agradecen por el despertar y el cuerpo. Incluyen lavado de manos y bendiciones corporales.
 
 ### Modé Ani
 
 {{< include ../berakhot/mode-ani.qmd >}}
+
+### Hareni M'galeh Da'ati (Opcional)
+
+{{< include ../berakhot/hareni-mgale-daati.qmd >}}
 
 ### Netilat Yadayim
 
@@ -44,17 +42,14 @@ Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivan
 
 ### Otras Bendiciones (Opcional)
 
-#### Bendición por la Inteligencia
-{{< include ../berakhot/atah-khonantanu.qmd >}}
+#### Inteligencia
+{{< include ../berakhot/hanoten-lasekhvi-bina.qmd >}}
 
 #### Bendición por los Ojos
 {{< include ../berakhot/pokeakh-ivrim.qmd >}}
 
 #### Bendición por la Boca
 {{< include ../berakhot/matir-asurim.qmd >}}
-
-#### Capacidad de movimiento
-{{< include ../berakhot/she-asah-li-kol-tzorki.qmd >}}
 
 #### Postura erecta
 {{< include ../berakhot/zokef-kefufim.qmd >}}
@@ -69,7 +64,10 @@ Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivan
 {{< include ../berakhot/roka-haaretz-al-hamayim.qmd >}}
 
 #### Capacidad de caminar
-{{< include ../berakhot/hamekhair-mitzadei-gever.qmd >}}
+{{< include ../berakhot/hamekhin-mitzadei-gever.qmd >}}
+
+#### Capacidad de satisfacer necesidades
+{{< include ../berakhot/she-asah-li-kol-tzorki.qmd >}}
 
 #### Fuerza
 {{< include ../berakhot/ozer-yisrael-bigvura.qmd >}}
@@ -82,3 +80,20 @@ Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivan
 
 #### Liberación del sueño
 {{< include ../berakhot/liberacion-del-sueno.qmd >}}
+
+## Birkat HaTorah
+
+<!-- {{< include ../berakhot/birkat-hatorah.qmd >}} -->
+
+## P'sukei D'Zimra - Versos de Alabanza
+
+### Mizmor L'Toda
+{{< include ../psukei-dzimra/mizmor-ltoda.qmd >}}
+
+### Nishmat Kol Chai
+{{< include ../psukei-dzimra/nishmat-kol-chai.qmd >}}
+
+### Yishtabach
+{{< include ../psukei-dzimra/yishtabach.qmd >}}
+
+*Nota: Esta es una selección abreviada de P'sukei D'Zimra. En un servicio completo incluiría más salmos y oraciones.*
