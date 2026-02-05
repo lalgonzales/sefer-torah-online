@@ -1,0 +1,33 @@
+::: {.triple-view}
+
+::: {.translation}
+¡Aclamen a HaShem, toda la tierra!  
+Sirvan a HaShem con alegría;  
+vengan ante Él con cánticos.  
+Sepan que HaShem es Elohim;  
+Él nos hizo, y Suyos somos,  
+Su pueblo y las ovejas de Su rebaño.  
+Entren por Sus puertas con acción de gracias,  
+por Sus atrios con alabanza;  
+denle gracias, bendigan Su nombre.  
+Porque HaShem es bueno,  
+Su misericordia es eterna,  
+y Su fidelidad por todas las generaciones.
+:::
+
+::: {.transliteration}
+Mizmor l'toda. Har'iu l'HaShem kol ha'aretz.  
+Iv'du et HaShem b'simcha, bo'u l'fanav bir'nana.  
+D'u ki HaShem Hu Elohim, Hu asanu v'lo anachnu,  
+Amo v'tzon mar'ito.  
+Bo'u sh'arav b'toda, chatzeirotav bit'hila,  
+Hodu lo, bar'khu sh'mo.  
+Ki tov HaShem, l'olam chasdo,  
+V'ad dor vador emunato.
+:::
+
+::: {.hebrew}
+מִזְמוֹר לְתוֹדָה׃ הָרִיעוּ לַיהוָה כָּל הָאָרֶץ׃ עִבְדוּ אֶת יְהוָה בְּשִׂמְחָה בֹּאוּ לְפָנָיו בִּרְנָנָה׃ דְּעוּ כִּי יְהוָה הוּא אֱלֹהִים הוּא עָשָׂנוּ וְלֹא אֲנַחְנוּ עַמּוֹ וְצֹאן מַרְעִיתוֹ׃ בֹּאוּ שְׁעָרָיו בְּתוֹדָה חֲצֵרוֹתָיו בִּתְהִלָּה הוֹדוּ לוֹ בָּרְכוּ שְׁמוֹ׃ כִּי טוֹב יְהוָה לְעוֹלָם חַסְדּוֹ וְעַד דּוֹר וָדוֹר אֱמוּנָתוֹ׃
+:::
+
+:::
