@@ -1,0 +1,15 @@
+::: {.triple-view}
+
+::: {.translation}
+Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que das al sabio inteligencia para distinguir entre día y noche.
+:::
+
+::: {.transliteration}
+Barukh atah HaShem Eloheinu melekh ha'olam hanoten lasekh'vi bina l'hav'khin bein yom uvin laila.
+:::
+
+::: {.hebrew}
+בָּרוּךְ אַתָּה יְהוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם הַנּוֹתֵן לַשֶּׂכְבִּי בִּינָה לְהַבְחִין בֵּין יוֹם וּבֵין לָיְלָה׃
+:::
+
+:::

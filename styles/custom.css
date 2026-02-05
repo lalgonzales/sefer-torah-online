@@ -78,3 +78,15 @@
     direction: ltr;
   }
 }
+
+/* Mejorar visibilidad del botón de toggle en móviles */
+@media (max-width: 767.98px) {
+  .quarto-btn-toggle::after {
+    content: " Menú";
+    font-size: 0.9em;
+  }
+  .quarto-btn-toggle {
+    padding: 0.5em;
+    font-size: 1.1em;
+  }
+}

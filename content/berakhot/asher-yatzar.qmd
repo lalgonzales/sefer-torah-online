@@ -1,5 +1,3 @@
-Esta bendición se recita después de usar el baño, agradeciendo por el funcionamiento del cuerpo.
-
 ::: {.triple-view}
 
 ::: {.translation}
@@ -7,7 +5,7 @@ Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que formaste al hombr
 :::
 
 ::: {.transliteration}
-Barukh atah HaShem Eloheinu Melekh ha'olam, asher yatzar et ha'adam b'khokhmah, v'arah vo n'kavim n'kavim, khalulim khalulim. Galui v'yadua lifnei kisei khvodecha she'im yipate'akh ekhad mehem, o yisatem ekhad mehem, ee efshar l'hitkayem v'la'amod l'fanekha. Barukh atah HaShem, rofeh khol basar u'mafli la'asot.
+Barukh atah HaShem Eloheinu Melekh ha'olam asher yatzar et ha'adam b'khokhmah v'arah vo n'kavim n'kavim khalulim khalulim. Galui v'yadua lifnei kisei khvodecha she'im yipate'akh ekhad mehem o yisatem ekhad mehem ee efshar l'hitkayem v'la'amod l'fanekha. Barukh atah HaShem rofeh khol basar u'mafli la'asot.
 :::
 
 ::: {.hebrew}
