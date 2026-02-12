@@ -63,7 +63,7 @@
   line-height: 1.6;
 }
 
-/* Controles para mostrar/ocultar columnas */
+/* Controls to show/hide columns */
 .view-controls {
   position: sticky;
   top: 10px;
@@ -168,7 +168,7 @@
     direction: ltr;
   }
 
-  /* Controles más compactos en móvil */
+  /* More compact controls on mobile */
   .view-controls {
     top: 5px;
     padding: 0.4em 0.6em;
