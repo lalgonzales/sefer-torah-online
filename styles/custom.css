@@ -63,6 +63,96 @@
   line-height: 1.6;
 }
 
+/* Controles para mostrar/ocultar columnas */
+.view-controls {
+  position: sticky;
+  top: 10px;
+  z-index: 1000;
+  display: flex;
+  gap: 0.5em;
+  margin: 1em 0;
+  padding: 0.5em 0.8em;
+  background-color: rgba(248, 249, 250, 0.95);
+  backdrop-filter: blur(5px);
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  width: fit-content;
+  max-width: 100%;
+}
+
+.view-controls strong {
+  font-size: 0.85em;
+  color: #6c757d;
+  margin-right: 0.3em;
+}
+
+.view-controls button {
+  padding: 0.35em 0.7em;
+  border: 2px solid #dee2e6;
+  background-color: #fff;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-size: 0.85em;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.view-controls button.active {
+  background-color: #0d6efd;
+  color: white;
+  border-color: #0d6efd;
+  box-shadow: 0 2px 4px rgba(13, 110, 253, 0.3);
+}
+
+.view-controls button:hover {
+  background-color: #e9ecef;
+  transform: translateY(-1px);
+}
+
+.view-controls button.active:hover {
+  background-color: #0b5ed7;
+}
+
+/* Ocultar columnas según preferencias */
+.hide-hebrew .triple-view .hebrew {
+  display: none;
+}
+
+.hide-transliteration .triple-view .transliteration {
+  display: none;
+}
+
+.hide-translation .triple-view .translation {
+  display: none;
+}
+
+/* Ajustar grid cuando hay columnas ocultas */
+.hide-hebrew .triple-view {
+  grid-template-columns: 1fr 1fr;
+}
+
+.hide-transliteration .triple-view {
+  grid-template-columns: 1fr 1fr;
+}
+
+.hide-translation .triple-view {
+  grid-template-columns: 1fr 1fr;
+}
+
+.hide-hebrew.hide-transliteration .triple-view,
+.hide-hebrew.hide-translation .triple-view,
+.hide-transliteration.hide-translation .triple-view {
+  grid-template-columns: 1fr;
+}
+
+.hide-hebrew.hide-transliteration.hide-translation .triple-view {
+  display: none;
+}
+
 /* Responsive para triple-view */
 @media (max-width: 768px) {
   .triple-view {
@@ -76,6 +166,22 @@
   }
   .triple-view .hebrew {
     direction: ltr;
+  }
+  
+  /* Controles más compactos en móvil */
+  .view-controls {
+    top: 5px;
+    padding: 0.4em 0.6em;
+    font-size: 0.9em;
+  }
+  
+  .view-controls strong {
+    display: none;
+  }
+  
+  .view-controls button {
+    font-size: 0.75em;
+    padding: 0.3em 0.5em;
   }
 }
 
