@@ -30,20 +30,20 @@ format:
     include-after-body:
       - text: |
           <script>
-          // Control de visibilidad de columnas en triple-view
+          // View controls for trilingual triple-view content
           document.addEventListener('DOMContentLoaded', function() {
-            // Crear controles solo si hay elementos triple-view en la página
+            // Create controls only if there are triple-view elements on the page
             const tripleViews = document.querySelectorAll('.triple-view');
             if (tripleViews.length === 0) return;
 
-            // Cargar preferencias guardadas
+            // Load saved preferences
             const savedPrefs = {
               hebrew: localStorage.getItem('show-hebrew') !== 'false',
               transliteration: localStorage.getItem('show-transliteration') !== 'false',
               translation: localStorage.getItem('show-translation') !== 'false'
             };
 
-            // Crear controles
+            // Create controls
             const controls = document.createElement('div');
             controls.className = 'view-controls';
             controls.id = 'global-view-controls';
@@ -60,13 +60,13 @@ format:
               </button>
             `;
 
-            // Insertar controles al inicio del contenido principal
+            // Insert controls at the beginning of main content
             const mainContent = document.querySelector('main') || document.querySelector('.page-columns');
             if (mainContent && mainContent.firstChild) {
               mainContent.insertBefore(controls, mainContent.firstChild);
             }
 
-            // Aplicar preferencias guardadas
+            // Apply saved preferences
             applyPreferences(savedPrefs);
 
             // Event listeners para los botones
