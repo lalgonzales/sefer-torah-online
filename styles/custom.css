@@ -167,18 +167,18 @@
   .triple-view .hebrew {
     direction: ltr;
   }
-  
+
   /* Controles más compactos en móvil */
   .view-controls {
     top: 5px;
     padding: 0.4em 0.6em;
     font-size: 0.9em;
   }
-  
+
   .view-controls strong {
     display: none;
   }
-  
+
   .view-controls button {
     font-size: 0.75em;
     padding: 0.3em 0.5em;

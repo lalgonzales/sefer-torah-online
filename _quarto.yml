@@ -85,7 +85,7 @@ format:
             function toggleColumn(column) {
               const button = document.getElementById(`toggle-${column}`);
               const isActive = button.classList.contains('active');
-              
+
               if (isActive) {
                 button.classList.remove('active');
                 document.body.classList.add(`hide-${column}`);
