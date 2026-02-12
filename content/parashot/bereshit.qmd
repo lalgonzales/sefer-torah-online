@@ -1,12 +1,26 @@
-# Bereshit - בראשית
+# Parashá 1: Bereshit - בראשית
+## En el Principio
+
+::: {.callout-warning}
+## 🚧 Sección en Desarrollo
+Esta parashá está en proceso de desarrollo. El contenido completo con texto hebreo, transliteración y traducción estará disponible próximamente.
+:::
 
 ## Información General
-- **Semana:** 1
+- **Libro:** Génesis (Bereshit)
+- **Parashá:** 1 de 54
 - **Porción:** Génesis 1:1-6:8
 - **Haftará:** Isaías 42:5-43:10
-- **Fecha aproximada:** Octubre
+- **Época del año:** Octubre (Tishrei)
 
-## Texto en Hebreo
+## Temas Principales
+- La Creación del mundo en 7 días
+- Adán y Eva en el Jardín del Edén
+- El pecado original y la expulsión
+- Caín y Abel
+- Las generaciones desde Adán hasta Noé
+
+## Texto (Próximamente)
 ```{=html}
 <div dir="rtl" lang="he">
   <h3>פרשת בראשית</h3>
