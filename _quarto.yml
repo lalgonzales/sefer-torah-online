@@ -4,11 +4,16 @@ project:
 
 book:
   title: "Sefer Torah Online"
+  subtitle: "Siddur y Torá Digital Bilingüe"
   author: "Luis Alfredo López Gonzales"
   chapters:
     - index.qmd
-    - content/siddur/shakharit.qmd
-    - content/parashot/bereshit.qmd
+    - part: "Siddur - Libro de Oraciones"
+      chapters:
+        - content/siddur/shakharit.qmd
+    - part: "Torá - Bereshit (Génesis)"
+      chapters:
+        - content/parashot/bereshit.qmd
   navbar:
     right:
       - icon: github
@@ -20,7 +25,91 @@ format:
     css: styles/custom.css
     toc-collapse: true
     toc-depth: 5
+    number-sections: false
     base-url: /sefer-torah-online/
+    include-after-body:
+      - text: |
+          <script>
+          // Control de visibilidad de columnas en triple-view
+          document.addEventListener('DOMContentLoaded', function() {
+            // Crear controles solo si hay elementos triple-view en la página
+            const tripleViews = document.querySelectorAll('.triple-view');
+            if (tripleViews.length === 0) return;
+
+            // Cargar preferencias guardadas
+            const savedPrefs = {
+              hebrew: localStorage.getItem('show-hebrew') !== 'false',
+              transliteration: localStorage.getItem('show-transliteration') !== 'false',
+              translation: localStorage.getItem('show-translation') !== 'false'
+            };
+
+            // Crear controles
+            const controls = document.createElement('div');
+            controls.className = 'view-controls';
+            controls.id = 'global-view-controls';
+            controls.innerHTML = `
+              <strong>Mostrar:</strong>
+              <button id="toggle-hebrew" class="${savedPrefs.hebrew ? 'active' : ''}">
+                עברית Hebreo
+              </button>
+              <button id="toggle-transliteration" class="${savedPrefs.transliteration ? 'active' : ''}">
+                Fonética
+              </button>
+              <button id="toggle-translation" class="${savedPrefs.translation ? 'active' : ''}">
+                Español
+              </button>
+            `;
+
+            // Insertar controles al inicio del contenido principal
+            const mainContent = document.querySelector('main') || document.querySelector('.page-columns');
+            if (mainContent && mainContent.firstChild) {
+              mainContent.insertBefore(controls, mainContent.firstChild);
+            }
+
+            // Aplicar preferencias guardadas
+            applyPreferences(savedPrefs);
+
+            // Event listeners para los botones
+            document.getElementById('toggle-hebrew').addEventListener('click', function() {
+              toggleColumn('hebrew');
+            });
+
+            document.getElementById('toggle-transliteration').addEventListener('click', function() {
+              toggleColumn('transliteration');
+            });
+
+            document.getElementById('toggle-translation').addEventListener('click', function() {
+              toggleColumn('translation');
+            });
+
+            function toggleColumn(column) {
+              const button = document.getElementById(`toggle-${column}`);
+              const isActive = button.classList.contains('active');
+              
+              if (isActive) {
+                button.classList.remove('active');
+                document.body.classList.add(`hide-${column}`);
+                localStorage.setItem(`show-${column}`, 'false');
+              } else {
+                button.classList.add('active');
+                document.body.classList.remove(`hide-${column}`);
+                localStorage.setItem(`show-${column}`, 'true');
+              }
+            }
+
+            function applyPreferences(prefs) {
+              if (!prefs.hebrew) {
+                document.body.classList.add('hide-hebrew');
+              }
+              if (!prefs.transliteration) {
+                document.body.classList.add('hide-transliteration');
+              }
+              if (!prefs.translation) {
+                document.body.classList.add('hide-translation');
+              }
+            }
+          });
+          </script>
     include-in-header:
       text: |
         <!-- Google Tag Manager -->

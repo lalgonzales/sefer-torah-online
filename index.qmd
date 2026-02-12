@@ -1,32 +1,35 @@
 ---
-title: "Sefer Torah Online"
-author: "Luis Alfredo López Gonzales"
+title: "Inicio"
 ---
 
 # Sefer Torah Online
+## Siddur y Torá Digital Bilingüe
 
-Bienvenido a **Sefer Torah Online**, un proyecto de estudio de la Torá digital bilingüe. Aquí encontrarás textos sagrados en hebreo, transliteración fonética y traducción al español, facilitando el aprendizaje y la recitación.
+Bienvenido a **Sefer Torah Online**, un proyecto de textos sagrados judíos en formato digital bilingüe. Aquí encontrarás el Siddur (libro de oraciones) y la Torá en hebreo, con transliteración fonética y traducción al español, facilitando el aprendizaje y la recitación.
 
-*Trabajo en progreso: Se continúa desarrollando la sección de Siddur con más bendiciones y mejoras.*
+### 📊 Estado del Proyecto
 
-## Navegación Principal
+- ✅ **Siddur**: En desarrollo activo - Shakharit con bendiciones matutinas
+- 🚧 **Torá**: Estructura inicial - Contenido próximamente
 
-### 📿 Siddur - Oraciones Diarias
+## Contenido Disponible
 
-- **[Shakharit - Servicio de la Mañana](content/siddur/shakharit.html)**
-  - Bendiciones matutinas (Birkat HaShakhar)
-  - P'sukei D'Zimra (Versos de Exaltación)
-  - Más secciones próximamente
+### 📿 Siddur - Libro de Oraciones
 
-- **Berakhot - Bendiciones**
-  - Asher Yatzar, Elohai Neshama, Mode Ani, etc.
+#### Shakharit (Servicio Matutino)
+- ✅ Birkat HaShakhar - Bendiciones matutinas completas
+  - Modé Ani, Asher Yatzar, Elohai Neshama
+  - 15+ bendiciones individuales con formato trilingüe
+- ✅ P'sukei D'Zimra - Versos de alabanza
+  - Mizmor L'Todá, Nishmat Kol Jai, Yishtabach
+- 🚧 Próximamente: Shemá, Amidá, cierre del servicio
 
-### 📖 Parashot - Porciones Semanales de la Torá
+### 📖 Torá - Libro de la Ley
 
-- **[Bereshit - Génesis](content/parashot/bereshit.html)**
-  - La creación del mundo
-  - La historia de Adán y Eva
-  - Más parashot próximamente
+#### Bereshit (Génesis)
+- 🚧 Estructura preparada
+- 🚧 Contenido completo próximamente
+- 🚧 54 parashot semanales en desarrollo
 
 ## Formatos Disponibles
 
@@ -34,7 +37,7 @@ Bienvenido a **Sefer Torah Online**, un proyecto de estudio de la Torá digital 
 
 ## Acerca del Proyecto
 
-Este sitio está diseñado para facilitar el estudio de la Torá a personas de habla hispana, proporcionando:
+Este sitio está diseñado para facilitar el estudio de textos sagrados judíos a personas de habla hispana, proporcionando:
 
 - Textos en hebreo con vocalización
 - Translitaración fonética para principiantes
@@ -43,7 +46,7 @@ Este sitio está diseñado para facilitar el estudio de la Torá a personas de h
 
 ### Nota sobre el Nombre Divino
 
-En este proyecto, utilizamos el término **HaShem** (que significa "El Nombre" en hebreo) como substituto respetuoso para referirnos al Nombre sagrado (el Tetragrámaton). Esta práctica se basa en la tradición judía de evitar pronunciar o escribir el Nombre sagrado en contextos no sagrados.
+En este proyecto, utilizamos el término **HaShem** (que significa "El Nombre" en hebreo) como referencia respetuosa para referirnos al Nombre sagrado (el Tetragrámaton). Esta práctica se basa en la tradición judía de evitar pronunciar o escribir el Nombre sagrado en contextos no sagrados.
 
 Sin embargo, reconocemos que las costumbres varían entre diferentes comunidades judías. El lector es libre de pronunciar o referirse al Nombre sagrado según las tradiciones de su *kehila* (comunidad). El uso de "HaShem" aquí es meramente por respeto y para hacer el contenido accesible a la mayor cantidad de personas posible, sin intención de imponer una práctica específica ni entrar en transgresiones.
 

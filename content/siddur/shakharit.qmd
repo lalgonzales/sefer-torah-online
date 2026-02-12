@@ -1,4 +1,5 @@
-# Shakharit - Servicio Matutino
+#  Shakharit - תפילת שחרית
+## Servicio de Oraci\u00f3n Matutina
 
 ## Orden del Servicio
 
