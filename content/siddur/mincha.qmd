@@ -21,7 +21,7 @@ Mincha es el servicio de oración de la tarde, recitado entre el mediodía y la 
 
 ## Tahanun — Súplicas (Días de Semana)
 
-*El Tahanun se omite en Shabbat, Rosh Jodesh, festividades y días de alegría.*
+*El Tahanun se omite en Shabbat, Rosh Khodesh, festividades y días de alegría.*
 
 ::: {.triple-view}
 

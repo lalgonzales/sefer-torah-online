@@ -15,7 +15,7 @@ Bienvenido a **Sefer Torah Online**, un proyecto de textos sagrados judíos en f
 - ✅ Birkat HaShakhar — Bendiciones matutinas completas (15+ bendiciones)
 - ✅ Birkat HaTorah — Bendiciones sobre el estudio de la Torá
 - ✅ Talit y Tefilin — Bendiciones de preceptos
-- ✅ P'sukei D'Zimra — Ashrei, Mizmor L'Todá, Nishmat Kol Jai, Yishtabach
+- ✅ P'sukei D'Zimra — Ashrei, Mizmor L'Todá, Nishmat Kol Khai, Yishtabach
 - ✅ Shemá Yisrael — Las tres secciones completas
 - ✅ Amidá — Las diecinueve bendiciones de la semana
 - ✅ Aleinu — Oración de cierre

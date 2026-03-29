@@ -7,7 +7,7 @@
 ::: {.triple-view}
 
 ::: {.translation}
-Bendito eres Tú, HaShem nuestro Elohim y Elohim de nuestros ancestros, Elohim de Avraham, Elohim de Ytzjak y Elohim de Yaakov; el gran El, poderoso y temible, El Altísimo, que otorga bondades, dueño de todo, que recuerda las virtudes de los ancestros y trae al redentor a sus hijos e hijas, por amor a Su nombre. Rey, que ayuda, salva y es escudo. Bendito eres Tú, HaShem, escudo de Avraham.
+Bendito eres Tú, HaShem nuestro Elohim y Elohim de nuestros ancestros, Elohim de Avraham, Elohim de Yitzkhak y Elohim de Yaakov; el gran El, poderoso y temible, El Altísimo, que otorga bondades, dueño de todo, que recuerda las virtudes de los ancestros y trae al redentor a sus hijos e hijas, por amor a Su nombre. Rey, que ayuda, salva y es escudo. Bendito eres Tú, HaShem, escudo de Avraham.
 :::
 
 ::: {.transliteration}
@@ -25,11 +25,11 @@ Barukh atah HaShem Eloheinu v'Elohei avoteinu, Elohei Avraham, Elohei Yitzkhak v
 ::: {.triple-view}
 
 ::: {.translation}
-Tú eres poderoso eternamente, Señor; que das vida a los muertos, eres grande para salvar. Que haces descender el rocío. Que sustentas a los vivos con bondad, que das vida a los muertos con gran misericordia, que sostienes a los que caen, curas a los enfermos, liberas a los cautivos y cumples Tu fidelidad con los que duermen en el polvo. ¿Quién es como Tú, dueño de las proezas? ¿Y quién se asemeja a Ti, Rey que da muerte y da vida y hace brotar la salvación? Y eres fiel para dar vida a los muertos. Bendito eres Tú, HaShem, que das vida a los muertos.
+Tú eres poderoso eternamente, HaShem; que das vida a los muertos, eres grande para salvar. Que haces descender el rocío. Que sustentas a los vivos con bondad, que das vida a los muertos con gran misericordia, que sostienes a los que caen, curas a los enfermos, liberas a los cautivos y cumples Tu fidelidad con los que duermen en el polvo. ¿Quién es como Tú, dueño de las proezas? ¿Y quién se asemeja a Ti, Rey que da muerte y da vida y hace brotar la salvación? Y eres fiel para dar vida a los muertos. Bendito eres Tú, HaShem, que das vida a los muertos.
 :::
 
 ::: {.transliteration}
-Atah gibor l'olam Adonai, m'khayeh meitim atah, rav l'hoshi'a. Morid hatal. M'khalkeil khayyim b'khesed, m'khayyeh meitim b'rakhamim rabim, somekh noflim v'rofeh kholim umatir asurim, um'kayyem emunato lishenei afar. Mi khamokha ba'al g'vurot umi domeh lakh? Melekh meimit um'khayyeh umatzmi'akh y'shu'a. V'ne'eman atah l'hakhayot meitim. Barukh atah HaShem, m'khayyeh hameitim.
+Atah gibor l'olam HaShem, m'khayeh meitim atah, rav l'hoshi'a. Morid hatal. M'khalkeil khayyim b'khesed, m'khayyeh meitim b'rakhamim rabim, somekh noflim v'rofeh kholim umatir asurim, um'kayyem emunato lishenei afar. Mi khamokha ba'al g'vurot umi domeh lakh? Melekh meimit um'khayyeh umatzmi'akh y'shu'a. V'ne'eman atah l'hakhayot meitim. Barukh atah HaShem, m'khayyeh hameitim.
 :::
 
 ::: {.hebrew}
@@ -43,7 +43,7 @@ Atah gibor l'olam Adonai, m'khayeh meitim atah, rav l'hoshi'a. Morid hatal. M'kh
 ::: {.triple-view}
 
 ::: {.translation}
-Tú eres santo y Tu nombre es santo, y los santos cada día Te alabarán, selah. Bendito eres Tú, HaShem, el Santo.
+Tú eres Kadosh y Tu nombre es Kadosh, y los kedoshim cada día Te alabarán, selah. Bendito eres Tú, HaShem, HaKadosh.
 :::
 
 ::: {.transliteration}
