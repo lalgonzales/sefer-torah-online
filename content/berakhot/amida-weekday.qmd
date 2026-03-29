@@ -7,11 +7,11 @@
 ::: {.triple-view}
 
 ::: {.translation}
-Bendito eres Tú, HaShem nuestro Elohim y Elohim de nuestros ancestros, Elohim de Avraham, Elohim de Ytzjak y Elohim de Yaakov; el Dios grande, poderoso y temible, Dios Altísimo, que otorga bondades, dueño de todo, que recuerda las virtudes de los ancestros y trae al redentor a sus hijos e hijas, por amor a Su nombre. Rey, que ayuda, salva y es escudo. Bendito eres Tú, HaShem, escudo de Avraham.
+Bendito eres Tú, HaShem nuestro Elohim y Elohim de nuestros ancestros, Elohim de Avraham, Elohim de Ytzjak y Elohim de Yaakov; el gran El, poderoso y temible, El Altísimo, que otorga bondades, dueño de todo, que recuerda las virtudes de los ancestros y trae al redentor a sus hijos e hijas, por amor a Su nombre. Rey, que ayuda, salva y es escudo. Bendito eres Tú, HaShem, escudo de Avraham.
 :::
 
 ::: {.transliteration}
-Barukh atah HaShem Eloheinu v'Elohei avoteinu, Elohei Avraham, Elohei Yitzchak v'Elohei Yaakov; ha'el hagadol hagibor v'hanora, el elyon, gomel chasadim tovim v'koneh hakol, v'zokher chasdei avot umeivi go'el livnei v'neihem l'ma'an sh'mo b'ahava. Melekh ozer umoshi'a uMagen. Barukh atah HaShem, Magen Avraham.
+Barukh atah HaShem Eloheinu v'Elohei avoteinu, Elohei Avraham, Elohei Yitzkhak v'Elohei Yaakov; ha'el hagadol hagibor v'hanora, el elyon, gomel khasadim tovim v'koneh hakol, v'zokher khasdei avot umeivi go'el livnei v'neihem l'ma'an sh'mo b'ahava. Melekh ozer umoshi'a uMagen. Barukh atah HaShem, Magen Avraham.
 :::
 
 ::: {.hebrew}
@@ -29,7 +29,7 @@ Tú eres poderoso eternamente, Señor; que das vida a los muertos, eres grande p
 :::
 
 ::: {.transliteration}
-Atah gibor l'olam Adonai, m'chayeh meitim atah, rav l'hoshi'a. Morid hatal. M'khalkeil chayyim b'chesed, m'chayyeh meitim b'rachamim rabim, somekh noflim v'rofeh cholim umatir asurim, um'kayyem emunato lishenei afar. Mi khamokha ba'al g'vurot umi domeh lakh? Melekh meimit um'chayyeh umatzmi'ach y'shu'a. V'ne'eman atah l'hachayot meitim. Barukh atah HaShem, m'chayyeh hameitim.
+Atah gibor l'olam Adonai, m'khayeh meitim atah, rav l'hoshi'a. Morid hatal. M'khalkeil khayyim b'khesed, m'khayyeh meitim b'rakhamim rabim, somekh noflim v'rofeh kholim umatir asurim, um'kayyem emunato lishenei afar. Mi khamokha ba'al g'vurot umi domeh lakh? Melekh meimit um'khayyeh umatzmi'akh y'shu'a. V'ne'eman atah l'hakhayot meitim. Barukh atah HaShem, m'khayyeh hameitim.
 :::
 
 ::: {.hebrew}
@@ -38,12 +38,12 @@ Atah gibor l'olam Adonai, m'chayeh meitim atah, rav l'hoshi'a. Morid hatal. M'kh
 
 :::
 
-### Tercera Bendición — Kedushat HaShem (Santidad de Dios)
+### Tercera Bendición — Kedushat HaShem (Santidad de HaShem)
 
 ::: {.triple-view}
 
 ::: {.translation}
-Tú eres santo y Tu nombre es santo, y los santos cada día Te alabarán, selah. Bendito eres Tú, HaShem, el Dios santo.
+Tú eres santo y Tu nombre es santo, y los santos cada día Te alabarán, selah. Bendito eres Tú, HaShem, el Santo.
 :::
 
 ::: {.transliteration}
@@ -65,7 +65,7 @@ Tú concedes al ser humano conocimiento y enseñas al hombre discernimiento. Con
 :::
 
 ::: {.transliteration}
-Atah chonein l'adam da'at um'lameid l'enosh bina. Choneinu me'itcha de'ah bina v'haskel. Barukh atah HaShem, chonein hada'at.
+Atah khonein l'adam da'at um'lameid l'enosh bina. Khoneinu me'itkha de'ah bina v'haskel. Barukh atah HaShem, khonein hada'at.
 :::
 
 ::: {.hebrew}
@@ -83,7 +83,7 @@ Haznos volver, nuestro Padre, a Tu Torá, y acércanos, nuestro Rey, a Tu servic
 :::
 
 ::: {.transliteration}
-Hashiveinu avinu l'Toratekha, v'kar'veinu malkeinu la'avodatekha, v'hachazireinu bit'shuvah sh'leimah l'fanekha. Barukh atah HaShem, harotze bit'shuvah.
+Hashiveinu avinu l'Toratekha, v'kar'veinu malkeinu la'avodatekha, v'hakhazireinu bit'shuvah sh'leimah l'fanekha. Barukh atah HaShem, harotze bit'shuvah.
 :::
 
 ::: {.hebrew}
@@ -101,7 +101,7 @@ Perdónanos, Padre nuestro, porque hemos pecado; absuélvenos, Rey nuestro, porq
 :::
 
 ::: {.transliteration}
-S'lach lanu avinu ki chatanu, m'chal lanu malkeinu ki fashanu, ki El tov v'salach atah. Barukh atah HaShem, chanun hamarbeh lisloach.
+S'lakh lanu avinu ki khatanu, m'khal lanu malkeinu ki fashanu, ki El tov v'salakh atah. Barukh atah HaShem, khanun hamarbeh lisloakh.
 :::
 
 ::: {.hebrew}
@@ -119,7 +119,7 @@ Mira por favor nuestra aflicción, defiende nuestra causa y redímenos pronto po
 :::
 
 ::: {.transliteration}
-R'eh na v'onyeinu v'riba riveinu ug'aleinu m'hera l'ma'an sh'mekha ki go'el chazak atah. Barukh atah HaShem, go'el Yisrael.
+R'eh na v'onyeinu v'riba riveinu ug'aleinu m'hera l'ma'an sh'mekha ki go'el khazak atah. Barukh atah HaShem, go'el Yisrael.
 :::
 
 ::: {.hebrew}
@@ -133,11 +133,11 @@ R'eh na v'onyeinu v'riba riveinu ug'aleinu m'hera l'ma'an sh'mekha ki go'el chaz
 ::: {.triple-view}
 
 ::: {.translation}
-Sánanos, HaShem, y seremos sanados; sálvanos y seremos salvados, pues Tú eres nuestra alabanza. Y envía curación completa a todas nuestras dolencias, pues Tú eres Dios, Rey, médico fiel y misericordioso. Bendito eres Tú, HaShem, que sana a los enfermos de Su pueblo Israel.
+Sánanos, HaShem, y seremos sanados; sálvanos y seremos salvados, pues Tú eres nuestra alabanza. Y envía curación completa a todas nuestras dolencias, pues Tú eres El, Rey, médico fiel y misericordioso. Bendito eres Tú, HaShem, que sana a los enfermos de Su pueblo Israel.
 :::
 
 ::: {.transliteration}
-R'faeinu HaShem v'neirafei, hoshi'einu v'nivashei'a ki t'hilateinu atah. V'ha'aleh r'fu'ah sh'leimah l'khol makoteinu, ki el melekh rofe ne'eman v'rachaman atah. Barukh atah HaShem, rofe cholei amo Yisrael.
+R'faeinu HaShem v'neirafei, hoshi'einu v'nivashei'a ki t'hilateinu atah. V'ha'aleh r'fu'ah sh'leimah l'khol makoteinu, ki el melekh rofe ne'eman v'rakhaman atah. Barukh atah HaShem, rofe kholei amo Yisrael.
 :::
 
 ::: {.hebrew}
@@ -173,7 +173,7 @@ Toca el gran shofar para nuestra libertad y levanta un estandarte para reunir a 
 :::
 
 ::: {.transliteration}
-T'ka b'shofar gadol l'cheruteinu, v'sa nes l'kabeitz galuyoteinu, v'kabtzeinu yachad me'arba kanfot ha'aretz. Barukh atah HaShem, m'kabeitz nidchei amo Yisrael.
+T'ka b'shofar gadol l'kheruteinu, v'sa nes l'kabeitz galuyoteinu, v'kabtzeinu yakhad me'arba kanfot ha'aretz. Barukh atah HaShem, m'kabeitz nidkhei amo Yisrael.
 :::
 
 ::: {.hebrew}
@@ -191,7 +191,7 @@ Restaura nuestros jueces como al principio, y nuestros consejeros como en el com
 :::
 
 ::: {.transliteration}
-Hashiva shofteinu k'varishona v'yo'atzeinu k'vat'chila, v'haser mimenu yagon va'anacha, umlokh aleinu atah HaShem l'vad'kha b'chesed uv'rachamim v'tzad'keinu bamishpat. Barukh atah HaShem, Melekh ohev tzedaka umishpat.
+Hashiva shofteinu k'varishona v'yo'atzeinu k'vat'khila, v'haser mimenu yagon va'anakha, umlokh aleinu atah HaShem l'vad'kha b'khesed uv'rakhamim v'tzad'keinu bamishpat. Barukh atah HaShem, Melekh ohev tzedaka umishpat.
 :::
 
 ::: {.hebrew}
@@ -227,7 +227,7 @@ Sobre los justos, sobre los piadosos, sobre los ancianos de Tu pueblo la Casa de
 :::
 
 ::: {.transliteration}
-Al hatzadikim v'al hachasidim v'al ziknei amkha beit Yisrael v'al p'leitat sofreihem v'al geirei hatzedek v'aleinu yehemu rachamekha HaShem Eloheinu, v'ten sakar tov l'khol habotchim b'shimkha be'emet. Barukh atah HaShem, mish'an umivtach latzadikim.
+Al hatzadikim v'al hakhasidim v'al ziknei amkha beit Yisrael v'al p'leitat sofreihem v'al geirei hatzedek v'aleinu yehemu rakhamekha HaShem Eloheinu, v'ten sakar tov l'khol habotkhim b'shimkha be'emet. Barukh atah HaShem, mish'an umivtakh latzadikim.
 :::
 
 ::: {.hebrew}
@@ -245,7 +245,7 @@ Y a Yerushalayim Tu ciudad, con misericordia regresa, y mora en su interior como
 :::
 
 ::: {.transliteration}
-V'liYerushalayim irekha b'rachamim tashuv v'tishkon b'tokha ka'asher dibarta, uv'neih otah b'karov b'yameinu binyan olam. Barukh atah HaShem, boneh Yerushalayim.
+V'liYerushalayim irekha b'rakhamim tashuv v'tishkon b'tokha ka'asher dibarta, uv'neih otah b'karov b'yameinu binyan olam. Barukh atah HaShem, boneh Yerushalayim.
 :::
 
 ::: {.hebrew}
@@ -263,7 +263,7 @@ Al retoño de David Tu siervo, pronto hazlo florecer, y enaltece su poder median
 :::
 
 ::: {.transliteration}
-Et tzemach David avd'kha m'hera tatzmi'ach v'karno tarum bishu'atekha, ki lishu'at'kha kivinu kol hayom. Barukh atah HaShem, matzmi'ach keren y'shu'a.
+Et tzemakh David avd'kha m'hera tatzmi'akh v'karno tarum bishu'atekha, ki lishu'at'kha kivinu kol hayom. Barukh atah HaShem, matzmi'akh keren y'shu'a.
 :::
 
 ::: {.hebrew}
@@ -277,11 +277,11 @@ Et tzemach David avd'kha m'hera tatzmi'ach v'karno tarum bishu'atekha, ki lishu'
 ::: {.triple-view}
 
 ::: {.translation}
-Escucha nuestra voz, HaShem nuestro Elohim, apiádate y ten misericordia de nosotros, y acepta con misericordia y beneplácito nuestra oración, pues Tú eres el Dios que escucha oraciones y súplicas. Bendito eres Tú, HaShem, que escucha la oración.
+Escucha nuestra voz, HaShem nuestro Elohim, apiádate y ten misericordia de nosotros, y acepta con misericordia y beneplácito nuestra oración, pues Tú eres El que escucha oraciones y súplicas. Bendito eres Tú, HaShem, que escucha la oración.
 :::
 
 ::: {.transliteration}
-Sh'ma koleinu HaShem Eloheinu, chus v'rachem aleinu, v'kabl b'rachamim uv'ratzon et t'filateinu, ki el shome'a t'filot v'tachanunin atah. Barukh atah HaShem, shome'a t'filah.
+Sh'ma koleinu HaShem Eloheinu, khus v'rakhem aleinu, v'kabl b'rakhamim uv'ratzon et t'filateinu, ki el shome'a t'filot v'takhanunin atah. Barukh atah HaShem, shome'a t'filah.
 :::
 
 ::: {.hebrew}
@@ -299,7 +299,7 @@ Complace, HaShem nuestro Elohim, en Tu pueblo Israel y en su oración; restaura 
 :::
 
 ::: {.transliteration}
-R'tzeh HaShem Eloheinu b'am'kha Yisrael uv'tfilatam, v'hashev et ha'avoda lid'vir beitekha, v'ishei Yisrael ut'filatam b'ahava t'kabl b'ratzon, ut'hi l'ratzon tamid avodat Yisrael amekha. Barukh atah HaShem, hamachazir sh'khinato l'Tziyon.
+R'tzeh HaShem Eloheinu b'am'kha Yisrael uv'tfilatam, v'hashev et ha'avoda lid'vir beitekha, v'ishei Yisrael ut'filatam b'ahava t'kabl b'ratzon, ut'hi l'ratzon tamid avodat Yisrael amekha. Barukh atah HaShem, hamakhazir sh'khinato l'Tziyon.
 :::
 
 ::: {.hebrew}
@@ -317,7 +317,7 @@ Te damos gracias, pues Tú eres HaShem nuestro Elohim y el Elohim de nuestros an
 :::
 
 ::: {.transliteration}
-Modim anachnu lakh sh'atah hu HaShem Eloheinu v'Elohei avoteinu l'olam va'ed. Tzur chayyeinu magen yish'einu atah hu l'dor vador. Nodeh l'kha unsaper t'hilatekha al chayyeinu hamessurim b'yadekha v'al nishmatoteinu hap'kudot lakh v'al nissekha sheb'khol yom imanu v'al nifl'otekha v'tovotekha sheb'khol et erev vavoker v'tzahora'im. Barukh atah HaShem, hatov shimkha ul'kha na'eh l'hodot.
+Modim anakhnu lakh sh'atah hu HaShem Eloheinu v'Elohei avoteinu l'olam va'ed. Tzur khayyeinu magen yish'einu atah hu l'dor vador. Nodeh l'kha unsaper t'hilatekha al khayyeinu hamessurim b'yadekha v'al nishmatoteinu hap'kudot lakh v'al nissekha sheb'khol yom imanu v'al nifl'otekha v'tovotekha sheb'khol et erev vavoker v'tzahora'im. Barukh atah HaShem, hatov shimkha ul'kha na'eh l'hodot.
 :::
 
 ::: {.hebrew}
@@ -335,7 +335,7 @@ Pon paz, bondad y bendición, gracia, bondad y misericordia sobre nosotros y sob
 :::
 
 ::: {.transliteration}
-Sim shalom tova uv'rakha, chen vachesed v'rachamim aleinu v'al kol Yisrael amekha. Barkheinu avinu kulanu k'echad b'or panekha, ki v'or panekha natata lanu HaShem Eloheinu Torat chayyim v'ahavat chesed utz'dakah uv'rakha v'rachamim v'chayyim v'shalom. V'tov b'einekha l'varekh et am'kha Yisrael b'khol et uv'khol sha'ah bishlomekha. Barukh atah HaShem, ham'varekh et amo Yisrael bashalom.
+Sim shalom tova uv'rakha, khen vakhesed v'rakhamim aleinu v'al kol Yisrael amekha. Barkheinu avinu kulanu k'ekhad b'or panekha, ki v'or panekha natata lanu HaShem Eloheinu Torat khayyim v'ahavat khesed utz'dakah uv'rakha v'rakhamim v'khayyim v'shalom. V'tov b'einekha l'varekh et am'kha Yisrael b'khol et uv'khol sha'ah bishlomekha. Barukh atah HaShem, ham'varekh et amo Yisrael bashalom.
 :::
 
 ::: {.hebrew}

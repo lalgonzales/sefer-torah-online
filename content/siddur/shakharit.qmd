@@ -107,13 +107,26 @@ Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivan
 ### Mizmor L'Toda
 {{< include ../psukei-dzimra/mizmor-ltoda.qmd >}}
 
-### Nishmat Kol Chai
+### Tehilim 146
+{{< include ../psukei-dzimra/tehilim-146.qmd >}}
+
+### Tehilim 147
+{{< include ../psukei-dzimra/tehilim-147.qmd >}}
+
+### Tehilim 148
+{{< include ../psukei-dzimra/tehilim-148.qmd >}}
+
+### Tehilim 149
+{{< include ../psukei-dzimra/tehilim-149.qmd >}}
+
+### Tehilim 150
+{{< include ../psukei-dzimra/tehilim-150.qmd >}}
+
+### Nishmat Kol Khai
 {{< include ../psukei-dzimra/nishmat-kol-chai.qmd >}}
 
 ### Yishtabach
 {{< include ../psukei-dzimra/yishtabach.qmd >}}
-
-*Nota: Esta es una selección representativa de P'sukei D'Zimra. En un servicio completo incluiría los Salmos 145–150 y otras oraciones.*
 
 ## Shemá y sus Bendiciones
 

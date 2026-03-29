@@ -7,7 +7,7 @@ Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que nos has santifica
 :::
 
 ::: {.transliteration}
-Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivanu l'hani'ach tefilin.
+Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivanu l'hani'akh tefilin.
 :::
 
 ::: {.hebrew}

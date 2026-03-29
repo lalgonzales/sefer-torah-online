@@ -11,7 +11,7 @@ Amarás a HaShem tu Elohim con todo tu corazón, con toda tu alma y con todas tu
 :::
 
 ::: {.transliteration}
-**Sh'ma Yisrael, HaShem Eloheinu, HaShem Echad.**
+**Sh'ma Yisrael, HaShem Eloheinu, HaShem Ekhad.**
 
 *[En voz baja:]* Barukh shem k'vod malkhuto l'olam va'ed.
 
@@ -37,7 +37,7 @@ Y sucederá que si escucháis atentamente Mis mandamientos que hoy os ordeno, am
 :::
 
 ::: {.transliteration}
-V'haya im shamo'a tishm'u el mitzvotai asher anokhi m'tzaveh etkhem hayom l'ahava et HaShem Eloheikhem ul'ovdo b'khol l'vavchem uv'khol nafsh'khem. V'natati m'tar artzekhem b'ito yoreh umal'kosh v'asafta d'ganekha v'tirosh'kha v'yitzharekha. V'natati esev b'sadekha livhemtekha v'akhalta v'savata. Hishamru lakhem pen yifteh l'vavchem v'sartem va'avadtem elohim acherim v'hishtakhavitem lahem. V'hara af HaShem bakhem v'atzar et hashamayim v'lo yihyeh matar v'ha'adama lo titen et y'vulah va'avadtem m'hera me'al ha'aretz hatova asher HaShem noten lakhem. V'samtem et d'varai eleh al l'vavchem v'al nafsh'khem ukshartam otam l'ot al yed'khem v'hayu l'totafot bein einekhem. V'limadtem otam et b'neikhem l'daber bam b'shivt'kha b'veitekha uv'lekht'kha vaderekh uv'shakhb'kha uv'kumekha. Ukhtavtam al m'zuzot beitekha uvish'arekha. L'ma'an yirbu y'meikhem vi'mei v'neikhem al ha'adama asher nishba HaShem la'avoteikhem latet lahem kimei hashamayim al ha'aretz.
+V'haya im shamo'a tishm'u el mitzvotai asher anokhi m'tzaveh etkhem hayom l'ahava et HaShem Eloheikhem ul'ovdo b'khol l'vavkhem uv'khol nafsh'khem. V'natati m'tar artzekhem b'ito yoreh umal'kosh v'asafta d'ganekha v'tirosh'kha v'yitzharekha. V'natati esev b'sadekha livhemtekha v'akhalta v'savata. Hishamru lakhem pen yifteh l'vavkhem v'sartem va'avadtem elohim akherim v'hishtakhavitem lahem. V'hara af HaShem bakhem v'atzar et hashamayim v'lo yihyeh matar v'ha'adama lo titen et y'vulah va'avadtem m'hera me'al ha'aretz hatova asher HaShem noten lakhem. V'samtem et d'varai eleh al l'vavkhem v'al nafsh'khem ukshartam otam l'ot al yed'khem v'hayu l'totafot bein einekhem. V'limadtem otam et b'neikhem l'daber bam b'shivt'kha b'veitekha uv'lekht'kha vaderekh uv'shakhb'kha uv'kumekha. Ukhtavtam al m'zuzot beitekha uvish'arekha. L'ma'an yirbu y'meikhem vi'mei v'neikhem al ha'adama asher nishba HaShem la'avoteikhem latet lahem kimei hashamayim al ha'aretz.
 :::
 
 ::: {.hebrew}
@@ -55,7 +55,7 @@ HaShem habló a Moshé diciendo: Habla a los hijos de Israel y diles que se haga
 :::
 
 ::: {.transliteration}
-Vayomer HaShem el Moshe lemor. Daber el b'nei Yisrael v'amarta alehem v'asu lahem tzitzit al kanfei vigdeihem l'dorotam v'natnu al tzitzit hakanaf p'til t'khelet. V'haya lakhem l'tzitzit ur'item oto uzkharartem et kol mitzvot HaShem va'asitem otam v'lo taturu acharei l'vavchem v'acharei einekhem asher atem zonim achareihem. L'ma'an tizk'ru va'asitem et kol mitzvotai vih'yitem k'doshim l'Eloheikhem. Ani HaShem Eloheikhem asher hotzeiti etkhem me'eretz Mitzrayim lihyot lakhem l'Elohim Ani HaShem Eloheikhem. — *Emet.*
+Vayomer HaShem el Moshe lemor. Daber el b'nei Yisrael v'amarta alehem v'asu lahem tzitzit al kanfei vigdeihem l'dorotam v'natnu al tzitzit hakanaf p'til t'khelet. V'haya lakhem l'tzitzit ur'item oto uzkharartem et kol mitzvot HaShem va'asitem otam v'lo taturu akharei l'vavkhem v'akharei einekhem asher atem zonim akhareihem. L'ma'an tizk'ru va'asitem et kol mitzvotai vih'yitem k'doshim l'Eloheikhem. Ani HaShem Eloheikhem asher hotzeiti etkhem me'eretz Mitzrayim lihyot lakhem l'Elohim Ani HaShem Eloheikhem. — *Emet.*
 :::
 
 ::: {.hebrew}
