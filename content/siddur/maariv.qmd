@@ -1,0 +1,42 @@
+# Maariv - תפילת מעריב
+## Servicio de Oración Nocturna
+
+Maariv (también llamado Arvit) es el servicio de oración de la noche, recitado después de la puesta del sol. Es el tercero de los tres servicios diarios de oración.
+
+## Orden del Servicio
+
+1. **Ma'ariv Aravim** - Bendición por el anochecer.
+2. **Ahavat Olam** - Amor eterno por Israel y la Torá.
+3. **Shemá y sus Bendiciones** - Declaración de fe.
+4. **Hashkiveinu** - Oración por protección nocturna.
+5. **Amidá** - Oración silenciosa de dieciocho bendiciones.
+6. **Aleinu** - Oración de cierre.
+7. **Kaddish Yatom** - Kaddish del enlutado.
+
+## Ma'ariv Aravim — Bendición del Anochecer
+
+{{< include ../berakhot/maariv-aravim.qmd >}}
+
+## Ahavat Olam — Amor Eterno
+
+{{< include ../berakhot/ahavat-olam.qmd >}}
+
+## Shemá Yisrael
+
+{{< include ../berakhot/shema-yisrael.qmd >}}
+
+## Hashkiveinu — Protección Nocturna
+
+{{< include ../berakhot/hashkiveinu.qmd >}}
+
+## Amidá — Shemoné Esreh
+
+{{< include ../berakhot/amida-weekday.qmd >}}
+
+## Aleinu
+
+{{< include ../berakhot/aleinu.qmd >}}
+
+## Kaddish Yatom
+
+{{< include ../berakhot/kaddish-yatom.qmd >}}
