@@ -1,0 +1,27 @@
+::: {.triple-view}
+
+::: {.translation}
+¡Bendigan a HaShem el bendito!
+
+Bendito es HaShem el bendito por siempre y eternamente.
+
+Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que nos has elegido de entre todos los pueblos y nos has dado Su Torá. Bendito eres Tú, HaShem, que das la Torá.
+:::
+
+::: {.transliteration}
+Barkhu et HaShem ham'vorakh.
+
+Barukh HaShem ham'vorakh l'olam va'ed.
+
+Barukh atah HaShem Eloheinu Melekh ha'olam, asher bachar banu mikol ha'amim v'natan lanu et Torato. Barukh atah HaShem, noten haTorah.
+:::
+
+::: {.hebrew}
+בָּרְכוּ אֶת יְהוָה הַמְבֹרָךְ׃
+
+בָּרוּךְ יְהוָה הַמְבֹרָךְ לְעוֹלָם וָעֶד׃
+
+בָּרוּךְ אַתָּה יְהוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם אֲשֶׁר בָּחַר בָּנוּ מִכָּל הָעַמִּים וְנָתַן לָנוּ אֶת תּוֹרָתוֹ׃ בָּרוּךְ אַתָּה יְהוָה נוֹתֵן הַתּוֹרָה׃
+:::
+
+:::

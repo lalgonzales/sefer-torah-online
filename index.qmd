@@ -7,40 +7,55 @@ title: "Inicio"
 
 Bienvenido a **Sefer Torah Online**, un proyecto de textos sagrados judíos en formato digital bilingüe. Aquí encontrarás el Siddur (libro de oraciones) y la Torá en hebreo, con transliteración fonética y traducción al español, facilitando el aprendizaje y la recitación.
 
-### 📊 Estado del Proyecto
-
-- ✅ **Siddur**: En desarrollo activo - Shakharit con bendiciones matutinas
-- 🚧 **Torá**: Estructura inicial - Contenido próximamente
-
 ## Contenido Disponible
 
 ### 📿 Siddur - Libro de Oraciones
 
-#### Shakharit (Servicio Matutino)
-- ✅ Birkat HaShakhar - Bendiciones matutinas completas
-  - Modé Ani, Asher Yatzar, Elohai Neshama
-  - 15+ bendiciones individuales con formato trilingüe
-- ✅ P'sukei D'Zimra - Versos de alabanza
-  - Mizmor L'Todá, Nishmat Kol Jai, Yishtabach
-- 🚧 Próximamente: Shemá, Amidá, cierre del servicio
+#### Shakharit — שַׁחֲרִית (Servicio Matutino)
+- ✅ Birkat HaShakhar — Bendiciones matutinas completas (15+ bendiciones)
+- ✅ Birkat HaTorah — Bendiciones sobre el estudio de la Torá
+- ✅ Talit y Tefilin — Bendiciones de preceptos
+- ✅ P'sukei D'Zimra — Ashrei, Mizmor L'Todá, Nishmat Kol Jai, Yishtabach
+- ✅ Shemá Yisrael — Las tres secciones completas
+- ✅ Amidá — Las diecinueve bendiciones de la semana
+- ✅ Aleinu — Oración de cierre
+- ✅ Kaddish Yatom — Kaddish del enlutado
+
+#### Mincha — מִנְחָה (Servicio de la Tarde)
+- ✅ Ashrei — Salmo 145
+- ✅ Amidá — Las diecinueve bendiciones
+- ✅ Tahanun — Súplicas (días de semana)
+- ✅ Aleinu — Oración de cierre
+- ✅ Kaddish Yatom — Kaddish del enlutado
+
+#### Maariv — מַעֲרִיב (Servicio Nocturno)
+- ✅ Ma'ariv Aravim — Bendición del anochecer
+- ✅ Ahavat Olam — Amor eterno
+- ✅ Shemá Yisrael — Las tres secciones completas
+- ✅ Hashkiveinu — Oración de protección nocturna
+- ✅ Amidá — Las diecinueve bendiciones
+- ✅ Aleinu — Oración de cierre
+- ✅ Kaddish Yatom — Kaddish del enlutado
 
 ### 📖 Torá - Libro de la Ley
 
 #### Bereshit (Génesis)
-- 🚧 Estructura preparada
-- 🚧 Contenido completo próximamente
+- 🚧 Estructura preparada — Contenido completo próximamente
 - 🚧 54 parashot semanales en desarrollo
 
-## Formatos Disponibles
+## Características del Sitio
 
-- 📖 **Web** (HTML) - Optimizado para estudio interactivo
+- **Formato triple-vista**: Hebreo con vocalización, transliteración fonética y traducción al español
+- **Controles interactivos**: Muestra u oculta cualquier columna según tus necesidades
+- **Diseño responsivo**: Funciona en computadoras, tabletas y teléfonos
+- **Preferencias guardadas**: El sitio recuerda qué columnas prefieres ver
 
 ## Acerca del Proyecto
 
 Este sitio está diseñado para facilitar el estudio de textos sagrados judíos a personas de habla hispana, proporcionando:
 
-- Textos en hebreo con vocalización
-- Translitaración fonética para principiantes
+- Textos en hebreo con vocalización (nikud)
+- Transliteración fonética para principiantes
 - Traducciones precisas al español
 - Formato triple-view para comparación simultánea
 
@@ -48,10 +63,10 @@ Este sitio está diseñado para facilitar el estudio de textos sagrados judíos 
 
 En este proyecto, utilizamos el término **HaShem** (que significa "El Nombre" en hebreo) como referencia respetuosa para referirnos al Nombre sagrado (el Tetragrámaton). Esta práctica se basa en la tradición judía de evitar pronunciar o escribir el Nombre sagrado en contextos no sagrados.
 
-Sin embargo, reconocemos que las costumbres varían entre diferentes comunidades judías. El lector es libre de pronunciar o referirse al Nombre sagrado según las tradiciones de su *kehila* (comunidad). El uso de "HaShem" aquí es meramente por respeto y para hacer el contenido accesible a la mayor cantidad de personas posible, sin intención de imponer una práctica específica ni entrar en transgresiones.
-
-*Proyecto en desarrollo - nuevas parashot y secciones agregadas semanalmente*
+Sin embargo, reconocemos que las costumbres varían entre diferentes comunidades judías. El lector es libre de pronunciar o referirse al Nombre sagrado según las tradiciones de su *kehila* (comunidad).
 
 ---
+
+*Proyecto en desarrollo — nuevas parashot y secciones agregadas periódicamente*
 
 [Ver en GitHub](https://github.com/lalgonzales/sefer-torah-online) | [Reportar problemas](https://github.com/lalgonzales/sefer-torah-online/issues)

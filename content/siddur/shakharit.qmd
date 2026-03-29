@@ -1,11 +1,16 @@
 #  Shakharit - תפילת שחרית
-## Servicio de Oraci\u00f3n Matutina
+## Servicio de Oración Matutina
 
 ## Orden del Servicio
 
 1. **Birkat HaShakhar** - Bendiciones matutinas.
 2. **Birkat HaTorah** - Bendiciones sobre el estudio de la Torá.
-3. **P'sukei D'Zimra** - Versos de alabanza.
+3. **Talit y Tefilin** - Preceptos de los flecos y filacterias.
+4. **P'sukei D'Zimra** - Versos de alabanza.
+5. **Shemá y sus Bendiciones** - Declaración de fe.
+6. **Amidá** - Oración silenciosa de dieciocho bendiciones.
+7. **Aleinu** - Oración de cierre.
+8. **Kaddish Yatom** - Kaddish del enlutado.
 
 ## Birkat HaShakhar
 
@@ -84,9 +89,20 @@ Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivan
 
 ## Birkat HaTorah
 
-<!-- {{< include ../berakhot/birkat-hatorah.qmd >}} -->
+{{< include ../berakhot/birkat-hatorah.qmd >}}
+
+## Talit y Tefilin (Opcional — hombres)
+
+### Talit
+{{< include ../berakhot/talit.qmd >}}
+
+### Tefilin
+{{< include ../berakhot/tefilin.qmd >}}
 
 ## P'sukei D'Zimra - Versos de Alabanza
+
+### Ashrei
+{{< include ../berakhot/ashrei.qmd >}}
 
 ### Mizmor L'Toda
 {{< include ../psukei-dzimra/mizmor-ltoda.qmd >}}
@@ -97,4 +113,24 @@ Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivan
 ### Yishtabach
 {{< include ../psukei-dzimra/yishtabach.qmd >}}
 
-*Nota: Esta es una selección abreviada de P'sukei D'Zimra. En un servicio completo incluiría más salmos y oraciones.*
+*Nota: Esta es una selección representativa de P'sukei D'Zimra. En un servicio completo incluiría los Salmos 145–150 y otras oraciones.*
+
+## Shemá y sus Bendiciones
+
+### Bendición Antes del Shemá
+{{< include ../berakhot/shema-blessing.qmd >}}
+
+### Shemá Yisrael
+{{< include ../berakhot/shema-yisrael.qmd >}}
+
+## Amidá — Shemoné Esreh
+
+{{< include ../berakhot/amida-weekday.qmd >}}
+
+## Aleinu
+
+{{< include ../berakhot/aleinu.qmd >}}
+
+## Kaddish Yatom
+
+{{< include ../berakhot/kaddish-yatom.qmd >}}
