@@ -11,6 +11,8 @@ book:
     - part: "Siddur - Libro de Oraciones"
       chapters:
         - content/siddur/shakharit.qmd
+        - content/siddur/mincha.qmd
+        - content/siddur/maariv.qmd
     - part: "Torá - Bereshit (Génesis)"
       chapters:
         - content/parashot/bereshit.qmd

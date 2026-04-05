@@ -1,0 +1,15 @@
+::: {.triple-view}
+
+::: {.translation}
+Bendito eres Tú, HaShem nuestro Elohim, Rey del universo, que nos has santificado con Tus mandamientos y nos has ordenado envolvernos en las tzitzit.
+:::
+
+::: {.transliteration}
+Barukh atah HaShem Eloheinu Melekh ha'olam, asher kid'shanu b'mitzvotav v'tzivanu l'hit'atef batzitzit.
+:::
+
+::: {.hebrew}
+בָּרוּךְ אַתָּה יְהוָה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהִתְעַטֵּף בַּצִּיצִית׃
+:::
+
+:::

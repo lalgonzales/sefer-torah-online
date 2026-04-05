@@ -1,0 +1,17 @@
+*(Salmo 150)*
+
+::: {.triple-view}
+
+::: {.translation}
+¡Haleluyah! Alabad a El en Su santuario; alabadle en la expansión de Su poder. Alabadle por Sus proezas; alabadle conforme a la muchedumbre de Su grandeza. Alabadle a son de bocina; alabadle con salterio y arpa. Alabadle con pandero y danza; alabadle con cuerdas y flauta. Alabadle con címbalos resonantes; alabadle con címbalos de júbilo. Todo lo que respira alabe a HaShem. ¡Haleluyah!
+:::
+
+::: {.transliteration}
+Hal'luyah! Hal'lu El b'kodsho, hal'luhu birki'a uzo. Hal'luhu vig'vurotav, hal'luhu k'rov gudlo. Hal'luhu b'teka shofar, hal'luhu b'nevel v'khinor. Hal'luhu b'tof umakhol, hal'luhu b'minim v'ugav. Hal'luhu v'tziltzlei shama, hal'luhu v'tziltzlei t'ru'a. Kol han'shama t'halel Yah. Hal'luyah!
+:::
+
+::: {.hebrew}
+הַלְלוּיָהּ הַלְלוּ אֵל בְּקָדְשׁוֹ הַלְלוּהוּ בִּרְקִיעַ עֻזּוֹ׃ הַלְלוּהוּ בִגְבוּרֹתָיו הַלְלוּהוּ כְּרֹב גֻּדְלוֹ׃ הַלְלוּהוּ בְּתֵקַע שׁוֹפָר הַלְלוּהוּ בְּנֵבֶל וְכִנּוֹר׃ הַלְלוּהוּ בְּתֹף וּמָחוֹל הַלְלוּהוּ בְּמִנִּים וְעֻגָב׃ הַלְלוּהוּ בְצִלְצְלֵי שָׁמַע הַלְלוּהוּ בְּצִלְצְלֵי תְרוּאָה׃ כֹּל הַנְּשָׁמָה תְּהַלֵּל יָהּ הַלְלוּיָהּ׃
+:::
+
+:::

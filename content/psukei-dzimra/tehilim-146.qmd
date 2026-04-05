@@ -1,0 +1,17 @@
+*(Salmo 146)*
+
+::: {.triple-view}
+
+::: {.translation}
+¡Haleluyah! Alaba, alma mía, a HaShem. Alabaré a HaShem mientras viva; cantaré a mi Elohim mientras exista. No confíes en príncipes, ni en hombre mortal, en quien no hay salvación. Su espíritu parte, vuelve a su tierra; en ese día perecen sus proyectos. Dichoso aquel cuya ayuda es el Elohim de Yaakov, cuya esperanza está en HaShem su Elohim; que hizo los cielos y la tierra, el mar y todo lo que hay en ellos; que guarda la verdad eternamente; que hace justicia a los oprimidos, que da pan a los hambrientos. HaShem libera a los cautivos; HaShem abre los ojos a los ciegos; HaShem levanta a los caídos; HaShem ama a los justos. HaShem guarda a los extranjeros; al huérfano y a la viuda sostiene, pero el camino de los malvados tuerce. HaShem reinará eternamente, tu Elohim, oh Sion, por todas las generaciones. ¡Haleluyah!
+:::
+
+::: {.transliteration}
+Hal'luyah! Hal'li nafshi et HaShem. Ahal'la HaShem b'khayyai, azam'ra l'Elohai b'odi. Al tivt'khu vind'vivim, b'ven adam shein lo t'shu'a. Tetze rukho yashuv l'admatoh, bayom hahu avdu ashtonotav. Ashrei sheel Ya'akov b'ezro, sivro al HaShem Elokhav. Oseh shamayim va'aretz, et hayam v'et kol asher bam, hashomer emet l'olam. Oseh mishpat la'ashukim, notein lekhem lare'evim. HaShem matir asurim. HaShem pokei'akh ivrim. HaShem zokeif k'fufim. HaShem ohev tzadikim. HaShem shomer et gerim, yatom v'almanah y'odeid, v'derekh r'sha'im y'aveit. Yimlokh HaShem l'olam, Elohayikh Tzion l'dor vador. Hal'luyah!
+:::
+
+::: {.hebrew}
+הַלְלוּיָהּ׃ הַלְלִי נַפְשִׁי אֶת יְהוָה׃ אֲהַלְלָה יְהוָה בְּחַיָּי אֲזַמְּרָה לֵאלֹהַי בְּעוֹדִי׃ אַל תִּבְטְחוּ בִנְדִיבִים בְּבֶן אָדָם שֶׁאֵין לוֹ תְשׁוּעָה׃ תֵּצֵא רוּחוֹ יָשֻׁב לְאַדְמָתוֹ בַּיּוֹם הַהוּא אָבְדוּ עֶשְׁתֹּנֹתָיו׃ אַשְׁרֵי שֶׁאֵל יַעֲקֹב בְּעֶזְרוֹ שִׂבְרוֹ עַל יְהוָה אֱלֹהָיו׃ עֹשֶׂה שָׁמַיִם וָאָרֶץ אֶת הַיָּם וְאֶת כָּל אֲשֶׁר בָּם הַשֹּׁמֵר אֱמֶת לְעוֹלָם׃ עֹשֶׂה מִשְׁפָּט לָעֲשׁוּקִים נֹתֵן לֶחֶם לָרְעֵבִים יְהוָה מַתִּיר אֲסוּרִים׃ יְהוָה פֹּקֵחַ עִוְרִים יְהוָה זֹקֵף כְּפוּפִים יְהוָה אֹהֵב צַדִּיקִים׃ יְהוָה שֹׁמֵר אֶת גֵּרִים יָתוֹם וְאַלְמָנָה יְעוֹדֵד וְדֶרֶךְ רְשָׁעִים יְעַוֵּת׃ יִמְלֹךְ יְהוָה לְעֹלָם אֱלֹהַיִךְ צִיּוֹן לְדֹר וָדֹר הַלְלוּיָהּ׃
+:::
+
+:::

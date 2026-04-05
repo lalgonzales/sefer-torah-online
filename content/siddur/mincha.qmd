@@ -1,0 +1,50 @@
+# Mincha - תפילת מנחה
+## Servicio de Oración de la Tarde
+
+Mincha es el servicio de oración de la tarde, recitado entre el mediodía y la puesta del sol. Es uno de los tres servicios diarios de oración.
+
+## Orden del Servicio
+
+1. **Ashrei** - Salmo 145.
+2. **Amidá** - Oración silenciosa de dieciocho bendiciones.
+3. **Tahanun** - Súplicas (días de semana; omitido en Shabbat y festividades).
+4. **Aleinu** - Oración de cierre.
+5. **Kaddish Yatom** - Kaddish del enlutado.
+
+## Ashrei
+
+{{< include ../berakhot/ashrei.qmd >}}
+
+## Amidá — Shemoné Esreh
+
+{{< include ../berakhot/amida-weekday.qmd >}}
+
+## Tahanun — Súplicas (Días de Semana)
+
+*El Tahanun se omite en Shabbat, Rosh Khodesh, festividades y días de alegría.*
+
+::: {.triple-view}
+
+::: {.translation}
+HaShem, no me reprendas en Tu ira ni me castigues en Tu furor. Ten gracia de mí, HaShem, pues estoy debilitado; sáname, HaShem, pues mis huesos están atormentados. Mi alma está muy angustiada; y Tú, HaShem, ¿hasta cuándo? Vuélvete, HaShem, libra mi alma; sálvame por Tu misericordia. Pues en la muerte no hay memoria de Ti; en el Seol, ¿quién Te alabará? Me he agotado de gemir; inundo de llanto mi lecho cada noche, con mis lágrimas mojo mi cama. Mis ojos se han debilitado de tristeza; han envejecido a causa de todos mis adversarios. Apartaos de mí, todos los que obráis iniquidad, pues HaShem ha escuchado la voz de mi llanto. HaShem ha escuchado mi súplica; HaShem recibirá mi oración. Se avergonzarán y se turbarán mucho todos mis enemigos; se volverán y de repente serán avergonzados.
+:::
+
+::: {.transliteration}
+HaShem al b'apkha tokhi'kheini v'al bakhmatk'ha t'yasr'eini. Khoneini HaShem ki umlal ani, r'faeini HaShem ki nivhalu atzamay. V'nafshi nivhala m'od v'atah HaShem ad matay. Shuva HaShem khalltz'a nafshi, hoshi'eini l'ma'an khasdekha. Ki ein bamavet zikh'rekha, bish'ol mi yodeh lakh. Yagati b'ankhati askheh v'khol layla mitati b'dim'ati artzi esh'seh. Ash'sha mikha'as eini at'ka b'khol tzor'rai. Suru mimeni kol po'alei aven ki shama HaShem kol bikh'yi. Shama HaShem t'khinati HaShem t'filati yikakh. Yeivoshu v'yibahalu m'od kol oyvay yashuvu yeivoshu paraga.
+:::
+
+::: {.hebrew}
+יְהוָה אַל בְּאַפְּךָ תוֹכִיחֵנִי וְאַל בַּחֲמָתְךָ תְיַסְּרֵנִי׃ חָנֵּנִי יְהוָה כִּי אֻמְלַל אָנִי רְפָאֵנִי יְהוָה כִּי נִבְהֲלוּ עֲצָמָי׃ וְנַפְשִׁי נִבְהֲלָה מְאֹד וְאַתָּה יְהוָה עַד מָתָי׃ שׁוּבָה יְהוָה חַלְּצָה נַפְשִׁי הוֹשִׁיעֵנִי לְמַעַן חַסְדֶּךָ׃ כִּי אֵין בַּמָּוֶת זִכְרֶךָ בִּשְׁאוֹל מִי יוֹדֶה לָּךְ׃ יָגַעְתִּי בְּאַנְחָתִי אַשְׂחֶה בְכָל לַיְלָה מִטָּתִי בְּדִמְעָתִי עַרְשִׂי אַמְסֶה׃ עָשְׁשָׁה מִכַּעַס עֵינִי עָתְקָה בְּכָל צוֹרְרָי׃ סוּרוּ מִמֶּנִּי כָּל פֹּעֲלֵי אָוֶן כִּי שָׁמַע יְהוָה קוֹל בִּכְיִי׃ שָׁמַע יְהוָה תְּחִנָּתִי יְהוָה תְּפִלָּתִי יִקָּח׃ יֵבֹשׁוּ וְיִבָּהֲלוּ מְאֹד כָּל אֹיְבָי יָשֻׁבוּ יֵבֹשׁוּ פָרַגַע׃
+:::
+
+:::
+
+*(Salmo 6 — recitado en días de semana excepto los lunes y jueves, cuando se recita un Tahanun extendido)*
+
+## Aleinu
+
+{{< include ../berakhot/aleinu.qmd >}}
+
+## Kaddish Yatom
+
+{{< include ../berakhot/kaddish-yatom.qmd >}}

@@ -1,178 +1,286 @@
-@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Taamey+Frank:wght@400;700&display=swap');
+/* ============================================================
+   SEFER TORAH ONLINE — Custom Styles
+   ============================================================ */
 
-/* Estilos para texto hebreo */
+/* ── Google Fonts & Hebrew Font ──────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Noto+Serif+Hebrew:wght@300;400;600;700&display=swap');
+
+/* ── CSS Variables ───────────────────────────────────────── */
+:root {
+  --color-parchment:  #fdf6e3;
+  --color-parchment-dark: #f5ead0;
+  --color-gold:       #b5892b;
+  --color-gold-light: #d4a843;
+  --color-wine:       #7b2d3e;
+  --color-wine-light: #a43d55;
+  --color-navy:       #1a3058;
+  --color-text:       #2c2c2c;
+  --color-muted:      #6c757d;
+  --color-border:     #d4c9a0;
+  --color-border-light: #e8e0c4;
+  --color-bg-card:    rgba(255, 252, 242, 0.85);
+  --color-bg-note:    #f0ebe0;
+  --font-body:        'Cardo', 'Georgia', serif;
+  --font-hebrew:      'Noto Serif Hebrew', 'Taamey Frank CLM', 'David', serif;
+  --font-mono:        'Consolas', 'Monaco', monospace;
+  --border-radius:    8px;
+  --shadow-sm:        0 1px 4px rgba(0,0,0,0.08);
+  --shadow-md:        0 4px 12px rgba(0,0,0,0.12);
+  --transition:       all 0.2s ease;
+}
+
+/* ── Global Typography ───────────────────────────────────── */
+body {
+  font-family: var(--font-body);
+  color: var(--color-text);
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-body);
+  color: var(--color-navy);
+}
+
+h1 {
+  font-size: 2rem;
+  border-bottom: 3px solid var(--color-gold);
+  padding-bottom: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.55rem;
+  border-left: 4px solid var(--color-wine);
+  padding-left: 0.65rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+  color: var(--color-wine);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h4 {
+  font-size: 1.05rem;
+  color: var(--color-navy);
+  font-style: italic;
+  margin-top: 1.25rem;
+}
+
+/* ── Section Dividers ────────────────────────────────────── */
+h2::before {
+  content: '';
+}
+
+/* Decorative separator between major sections */
+.section-divider {
+  text-align: center;
+  color: var(--color-gold);
+  font-size: 1.3em;
+  margin: 2rem 0;
+  letter-spacing: 0.5em;
+}
+
+/* ── Hebrew Text ─────────────────────────────────────────── */
 .hebrew-text {
-  font-family: "Taamey Frank CLM", "David", serif;
+  font-family: var(--font-hebrew);
   direction: rtl;
   text-align: right;
-  font-size: 1.1em;
-  line-height: 1.6;
+  font-size: 1.15em;
+  line-height: 1.8;
 }
 
-/* Estilos para citas bíblicas */
+/* ── Bible Verse Quotes ──────────────────────────────────── */
 .bible-verse {
   font-style: italic;
-  margin: 1em 0;
-  padding-left: 1em;
-  border-left: 3px solid #8B4513;
+  margin: 1.25em 0;
+  padding: 0.6em 1em;
+  border-left: 4px solid var(--color-gold);
+  background-color: var(--color-bg-note);
+  border-radius: 0 var(--border-radius) var(--border-radius) 0;
 }
 
-/* Estilos para comentarios */
+/* ── Commentary / Note Boxes ────────────────────────────── */
 .commentary {
-  background-color: #f8f9fa;
-  padding: 1em;
-  border-radius: 5px;
+  background-color: var(--color-bg-note);
+  padding: 1em 1.25em;
+  border-radius: var(--border-radius);
   margin: 1em 0;
+  border: 1px solid var(--color-border-light);
+  font-size: 0.95em;
+  color: #444;
 }
 
-/* Responsive design */
-@media (max-width: 768px) {
-  .hebrew-text {
-    font-size: 1em;
-  }
-}
-
-/* Layout para vista triple: hebreo | fonética | traducción */
+/* ── Triple View Layout ──────────────────────────────────── */
 .triple-view {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 1em;
-  margin: 1em 0;
+  gap: 0;
+  margin: 1.25em 0;
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  background-color: var(--color-bg-card);
+  box-shadow: var(--shadow-sm);
 }
 
+.triple-view > div {
+  padding: 0.85em 1em;
+  border-right: 1px solid var(--color-border-light);
+}
+
+.triple-view > div:last-child {
+  border-right: none;
+}
+
+/* Hebrew column */
 .triple-view .hebrew {
   direction: rtl;
   text-align: right;
-  font-family: "Taamey Frank CLM", "David", serif;
-  font-size: 1.1em;
-  line-height: 1.6;
-  font-weight: bold;
+  font-family: var(--font-hebrew);
+  font-size: 1.15em;
+  line-height: 1.9;
+  font-weight: 600;
+  background-color: rgba(253, 246, 227, 0.6);
+  color: var(--color-navy);
 }
 
+/* Transliteration column */
 .triple-view .transliteration {
   text-align: center;
-  font-family: monospace;
-  font-size: 1em;
-  line-height: 1.6;
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  line-height: 1.85;
+  color: #3a3a3a;
+  background-color: rgba(248, 244, 232, 0.4);
 }
 
+/* Translation column */
 .triple-view .translation {
   text-align: left;
   font-style: italic;
-  font-size: 1em;
-  line-height: 1.6;
+  font-size: 0.97em;
+  line-height: 1.8;
+  color: #333;
 }
 
-/* Controls to show/hide columns */
+/* ── View Controls (sticky toggle buttons) ──────────────── */
 .view-controls {
   position: sticky;
   top: 10px;
   z-index: 1000;
   display: flex;
   gap: 0.5em;
-  margin: 1em 0;
-  padding: 0.5em 0.8em;
-  background-color: rgba(248, 249, 250, 0.95);
-  backdrop-filter: blur(5px);
-  border: 1px solid #dee2e6;
-  border-radius: 8px;
+  margin: 1.25em 0 1.5em;
+  padding: 0.5em 0.9em;
+  background: rgba(255, 252, 245, 0.97);
+  backdrop-filter: blur(6px);
+  border: 1px solid var(--color-border);
+  border-radius: 30px;
   flex-wrap: wrap;
   align-items: center;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: var(--shadow-md);
   width: fit-content;
   max-width: 100%;
 }
 
 .view-controls strong {
-  font-size: 0.85em;
-  color: #6c757d;
+  font-size: 0.82em;
+  color: var(--color-muted);
   margin-right: 0.3em;
+  font-family: var(--font-body);
+  font-weight: normal;
+  font-style: italic;
 }
 
 .view-controls button {
-  padding: 0.35em 0.7em;
-  border: 2px solid #dee2e6;
+  padding: 0.3em 0.85em;
+  border: 1.5px solid var(--color-border);
   background-color: #fff;
   border-radius: 20px;
   cursor: pointer;
-  transition: all 0.2s;
-  font-size: 0.85em;
+  transition: var(--transition);
+  font-size: 0.82em;
   font-weight: 500;
+  font-family: var(--font-body);
   white-space: nowrap;
+  color: var(--color-navy);
 }
 
 .view-controls button.active {
-  background-color: #0d6efd;
+  background-color: var(--color-navy);
   color: white;
-  border-color: #0d6efd;
-  box-shadow: 0 2px 4px rgba(13, 110, 253, 0.3);
+  border-color: var(--color-navy);
+  box-shadow: 0 2px 6px rgba(26, 48, 88, 0.3);
 }
 
 .view-controls button:hover {
-  background-color: #e9ecef;
+  background-color: var(--color-parchment-dark);
   transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
 }
 
 .view-controls button.active:hover {
-  background-color: #0b5ed7;
+  background-color: var(--color-wine);
+  border-color: var(--color-wine);
 }
 
-/* Ocultar columnas según preferencias */
-.hide-hebrew .triple-view .hebrew {
-  display: none;
-}
+/* ── Column Visibility Toggles ───────────────────────────── */
+.hide-hebrew .triple-view .hebrew        { display: none; }
+.hide-transliteration .triple-view .transliteration { display: none; }
+.hide-translation .triple-view .translation { display: none; }
 
-.hide-transliteration .triple-view .transliteration {
-  display: none;
-}
-
-.hide-translation .triple-view .translation {
-  display: none;
-}
-
-/* Ajustar grid cuando hay columnas ocultas */
-.hide-hebrew .triple-view {
-  grid-template-columns: 1fr 1fr;
-}
-
-.hide-transliteration .triple-view {
-  grid-template-columns: 1fr 1fr;
-}
-
-.hide-translation .triple-view {
-  grid-template-columns: 1fr 1fr;
-}
+.hide-hebrew .triple-view                { grid-template-columns: 1fr 1fr; }
+.hide-transliteration .triple-view       { grid-template-columns: 1fr 1fr; }
+.hide-translation .triple-view           { grid-template-columns: 1fr 1fr; }
 
 .hide-hebrew.hide-transliteration .triple-view,
 .hide-hebrew.hide-translation .triple-view,
-.hide-transliteration.hide-translation .triple-view {
-  grid-template-columns: 1fr;
+.hide-transliteration.hide-translation .triple-view { grid-template-columns: 1fr; }
+
+.hide-hebrew.hide-transliteration.hide-translation .triple-view { display: none; }
+
+/* ── Paragraph Notes / Italics ───────────────────────────── */
+p > em, p > i {
+  color: var(--color-muted);
 }
 
-.hide-hebrew.hide-transliteration.hide-translation .triple-view {
-  display: none;
-}
-
-/* Responsive para triple-view */
+/* ── Responsive: Triple View ─────────────────────────────── */
 @media (max-width: 768px) {
   .triple-view {
-    grid-template-columns: 1fr;
-    gap: 0.5em;
-  }
-  .triple-view .hebrew,
-  .triple-view .transliteration,
-  .triple-view .translation {
-    text-align: left;
-  }
-  .triple-view .hebrew {
-    direction: ltr;
+    grid-template-columns: 1fr !important;
+    gap: 0;
   }
 
-  /* More compact controls on mobile */
+  .triple-view > div {
+    border-right: none;
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .triple-view > div:last-child {
+    border-bottom: none;
+  }
+
+  .triple-view .hebrew {
+    direction: rtl;
+    text-align: right;
+  }
+
+  .triple-view .transliteration {
+    text-align: left;
+  }
+
+  h1 { font-size: 1.55rem; }
+  h2 { font-size: 1.3rem; }
+
   .view-controls {
     top: 5px;
-    padding: 0.4em 0.6em;
+    padding: 0.4em 0.65em;
     font-size: 0.9em;
+    border-radius: 12px;
   }
 
   .view-controls strong {
@@ -181,11 +289,11 @@
 
   .view-controls button {
     font-size: 0.75em;
-    padding: 0.3em 0.5em;
+    padding: 0.3em 0.55em;
   }
 }
 
-/* Mejorar visibilidad del botón de toggle en móviles */
+/* ── Mobile Toggle Button ────────────────────────────────── */
 @media (max-width: 767.98px) {
   .quarto-btn-toggle::after {
     content: " Menú";
@@ -196,3 +304,45 @@
     font-size: 1.1em;
   }
 }
+
+/* ── Print Styles ────────────────────────────────────────── */
+@media print {
+  .view-controls { display: none !important; }
+
+  .triple-view {
+    border: 1px solid #ccc;
+    page-break-inside: avoid;
+    box-shadow: none;
+  }
+
+  h1, h2, h3 { page-break-after: avoid; }
+  h2 { border-left: 3px solid #555; }
+  h1 { border-bottom: 2px solid #555; }
+
+  .triple-view .hebrew {
+    font-size: 1.05em;
+    background-color: transparent !important;
+  }
+
+  body {
+    font-size: 11pt;
+    color: #000;
+  }
+}
+
+/* ── Highlight on hover for prayer sections ──────────────── */
+.triple-view:hover {
+  box-shadow: var(--shadow-md);
+  border-color: var(--color-gold);
+  transition: var(--transition);
+}
+
+/* ── Service intro box (for top-of-page order list) ─────── */
+ol li strong {
+  color: var(--color-wine);
+}
+
+/* ── Status badges for index page ───────────────────────── */
+.status-done   { color: #2e7d32; font-weight: bold; }
+.status-wip    { color: #e65100; font-weight: bold; }
+.status-todo   { color: var(--color-muted); }
